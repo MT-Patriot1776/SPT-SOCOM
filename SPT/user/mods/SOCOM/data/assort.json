@@ -11195,9 +11195,53 @@
 			}
 		},
 		{
+			"_comment": "M856A1ammo",
+			"_id": "59e6906286f7746c9f75e847",
+			"_tpl": "59e6906286f7746c9f75e847",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "M855A1ammo",
+			"_id": "54527ac44bdc2d36668b4567",
+			"_tpl": "54527ac44bdc2d36668b4567",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
 			"_comment": "M995ammo",
 			"_id": "59e690b686f7746c9f75e848",
 			"_tpl": "59e690b686f7746c9f75e848",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+    {
+	"_comment": "M995A1ammo",
+      "_id": "691a2a1829cbc4e14845148c",
+      "_tpl": "691a2a1829cbc4e14845148c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+		{
+			"_comment": "SSAammo",
+			"_id": "601949593ae8f707c4608daa",
+			"_tpl": "601949593ae8f707c4608daa",
 			"parentId": "hideout",
 			"slotId": "hideout",
 			"upd": {
@@ -11217,6 +11261,17 @@
 			}
 		},
 		{
+			"_comment": "M80ammo",
+			"_id": "58dd3ad986f77403051cba8f",
+			"_tpl": "58dd3ad986f77403051cba8f",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
 			"_comment": "M61ammo",
 			"_id": "5a6086ea4f39f99cd479502f",
 			"_tpl": "5a6086ea4f39f99cd479502f",
@@ -11227,6 +11282,40 @@
 				"StackObjectsCount": 999999999
 			}
 		},
+		{
+			"_comment": "M66ammo",
+			"_id": "692999309d14636134cea6e2",
+			"_tpl": "692999309d14636134cea6e2",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "M80A1ammo",
+			"_id": "6768c25aa7b238f14a08d3f6",
+			"_tpl": "6768c25aa7b238f14a08d3f6",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "M993ammo",
+			"_id": "5efb0c1bd79ff02a1f5e68d9",
+			"_tpl": "5efb0c1bd79ff02a1f5e68d9",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+
 		{
 			"_comment": "M62ammo",
 			"_id": "5a608bf24f39f98ffc77720e",
@@ -11297,6 +11386,17 @@
 			"_comment": "9x19PBP",
 			"_id": "5efb0da7a29a85116f6ea05f",
 			"_tpl": "5efb0da7a29a85116f6ea05f",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "9x19Prototype",
+			"_id": "6919b8fb22c91b2446fbcda8",
+			"_tpl": "6919b8fb22c91b2446fbcda8",
 			"parentId": "hideout",
 			"slotId": "hideout",
 			"upd": {
@@ -15107,12 +15207,39 @@
                 }
             ]
         ],
+        "54527ac44bdc2d36668b4567": [
+            [
+                {
+					"_comment": "M55A1ammo",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 2
+                }
+            ]
+        ],
         "59e690b686f7746c9f75e848": [
             [
                 {
 					"_comment": "M995ammo",
                     "_tpl": "5696686a4bdc2da3298b456a",
-                    "count": 2
+                    "count": 3
+                }
+            ]
+        ],
+		"691a2a1829cbc4e14845148c": [
+			[
+				{
+					"_comment": "M995A1ammo",
+					"_tpl": "5696686a4bdc2da3298b456a",
+					"count": 4
+				}
+			]
+		],
+        "601949593ae8f707c4608daa": [
+            [
+                {
+					"_comment": "SSAammo",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 5
                 }
             ]
         ],
@@ -15125,12 +15252,57 @@
                 }
             ]
         ],
+        "59e6906286f7746c9f75e847": [
+            [
+                {
+					"_comment": "M856A1ammo",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 1
+                }
+            ]
+        ],
+        "58dd3ad986f77403051cba8f": [
+            [
+                {
+					"_comment": "M80ammo",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 1
+                }
+            ]
+        ],
         "5a6086ea4f39f99cd479502f": [
             [
                 {
 					"_comment": "M61ammo",
                     "_tpl": "5696686a4bdc2da3298b456a",
-                    "count": 2
+                    "count": 3
+                }
+            ]
+        ],
+		"692999309d14636134cea6e2": [
+			[
+				{
+					"_comment": "M66ammo",
+					"_tpl": "5696686a4bdc2da3298b456a",
+					"count": 4
+				}
+			]
+		],
+        "6768c25aa7b238f14a08d3f6": [
+            [
+                {
+					"_comment": "M80A1ammo",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 4
+                }
+            ]
+        ],
+        "5efb0c1bd79ff02a1f5e68d9": [
+            [
+                {
+					"_comment": "M993ammo",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 5
                 }
             ]
         ],
@@ -15139,7 +15311,7 @@
                 {
 					"_comment": "M62ammo",
                     "_tpl": "5696686a4bdc2da3298b456a",
-                    "count": 1
+                    "count": 2
                 }
             ]
         ],
@@ -15206,6 +15378,15 @@
                 }
             ]
         ],
+		"6919b8fb22c91b2446fbcda8": [
+			[
+				{
+				"_comment": "9x19Prototype",
+				"_tpl": "5696686a4bdc2da3298b456a",
+				"count": 3
+				}
+			]
+		],
         "5c0558060db834001b735271": [
             [
                 {
@@ -16433,9 +16614,17 @@
     "5a718da68dc32e000d46d264": 1,
     "6193d3149fb0c665d5490e32": 1,
     "5c920e902e221644f31c3c99": 1,
+    "59e6906286f7746c9f75e847": 1,
+    "54527ac44bdc2d36668b4567": 1,
     "59e690b686f7746c9f75e848": 1,
+    "691a2a1829cbc4e14845148c": 1,
+    "601949593ae8f707c4608daa": 1,
     "60194943740c5d77f6705eea": 1,
+    "58dd3ad986f77403051cba8f": 1,
     "5a6086ea4f39f99cd479502f": 1,
+    "692999309d14636134cea6e2": 1,
+    "6768c25aa7b238f14a08d3f6": 1,
+    "5efb0c1bd79ff02a1f5e68d9": 1,
     "5a608bf24f39f98ffc77720e": 1,
     "5efb0cabfb3e451d70735af5": 1,
     "6529302b8c26af6326029fb7": 1,
@@ -16444,6 +16633,7 @@
     "5ba26835d4351e0035628ff5": 1,
     "5c925fa22e221601da359b7b": 1,
     "5efb0da7a29a85116f6ea05f": 1,
+    "6919b8fb22c91b2446fbcda8": 1,
     "5c0558060db834001b735271": 1,
     "5f60cd6cf2bcbb675b00dac6": 1,
     "6529113b5ae2ae97b80fdf39": 1,

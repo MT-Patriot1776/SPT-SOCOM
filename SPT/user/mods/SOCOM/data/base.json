@@ -11,6 +11,14 @@
   "discount": 0,
   "discount_end": 0,
   "gridHeight": 150,
+   "insurance": {
+    "availability": false,
+    "excluded_category": [],
+    "max_return_hour": 0,
+    "max_storage_time": 99,
+    "min_payment": 0,
+    "min_return_hour": 0
+  },
   "isAvailableInPVE": true,
   "isCanTransferItems": false,
   "isCanTransferItemsFromPve": false,

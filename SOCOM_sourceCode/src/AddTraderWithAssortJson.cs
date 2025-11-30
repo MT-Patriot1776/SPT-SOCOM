@@ -10,20 +10,20 @@ using SPTarkov.Server.Core.Utils;
 using System.Reflection;
 using Path = System.IO.Path;
 
-namespace _13AddTraderWithAssortJson;
+namespace SOCOM;
 
 // This record holds the various properties for your mod
 public record ModMetadata : AbstractModMetadata
 {
-    public override string ModGuid { get; init; } = "com.sp-tarkov.examples.addtraderjsonassorts";
-    public override string Name { get; init; } = "AddTraderWithAssortJsonExample";
-    public override string Author { get; init; } = "SPTarkov";
-    public override List<string>? Contributors { get; init; } = ["Clodan", "CWX"];
-    public override SemanticVersioning.Version Version { get; init; } = new("1.0.0");
+    public override string ModGuid { get; init; } = "com.mtmilitia.socom";
+    public override string Name { get; init; } = "SOCOM";
+    public override string Author { get; init; } = "MT_Militia";
+    public override List<string>? Contributors { get; init; } = ["Srispt"];
+    public override SemanticVersioning.Version Version { get; init; } = new("2.0.0");
     public override SemanticVersioning.Range SptVersion { get; init; } = new("~4.0.0");
-    public override List<string>? Incompatibilities { get; init; } = ["ReadJsonConfigExample"];
+    public override List<string>? Incompatibilities { get; init; } = ["null"];
     public override Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; }
-    public override string? Url { get; init; } = "https://github.com/sp-tarkov/server-mod-examples";
+    public override string? Url { get; init; } = "https://github.com/MT-Patriot1776/SPT-SOCOM";
     public override bool? IsBundleMod { get; init; } = false;
     public override string? License { get; init; } = "MIT";
 }
@@ -71,7 +71,7 @@ public class AddTraderWithAssortJson(
         addCustomTraderHelper.AddTraderWithEmptyAssortToDb(traderBase);
 
         // Add localisation text for our trader to the database so it shows to people playing in different languages
-        addCustomTraderHelper.AddTraderToLocales(traderBase, "SOCOM", "This is the SOCOM Armory shop.");
+        addCustomTraderHelper.AddTraderToLocales(traderBase, "SOCOM", "SOCOM Armory");
 
         // Get the assort data from JSON
         var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "data/assort.json");
