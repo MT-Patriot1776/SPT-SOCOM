@@ -1,0 +1,464 @@
+{
+  "6932684b3952b1b17bd440df": {
+    "itemTplToClone": "2a6882a9265b63e56b00f0e8",
+    "parentId": "STOCK",
+    "handbookParentId": "MOD_STOCK",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "mods/stocks/prs_lite_blk.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 12,
+      "Recoil": -25,
+      "Accuracy": 2,
+      "Weight": 0.515,
+      "ConflictingItems": [
+        "5c0e2ff6d174af02a1659d4a",
+        "5a33e75ac4a2826c6e06d759"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Magpul PRS Lite stock",
+        "shortName": "Lite",
+        "description": "The PRS Lite provides much of the same adjustability and many features of our PRS GEN3 Precision-Adjustable Stock, with the added benefits of reduced weight and a price that’s almost half of its fully featured counterpart."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 8250,
+    "handbookPriceRoubles": 4699,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2200
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "693268545746b9c7316632fa": {
+    "itemTplToClone": "e7033144137177533f1fe6cf",
+    "parentId": "STOCK",
+    "handbookParentId": "MOD_STOCK",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "mods/stocks/prs_lite_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 12,
+      "Recoil": -25,
+      "Accuracy": 2,
+      "Weight": 0.515,
+      "ConflictingItems": [
+        "5c0e2ff6d174af02a1659d4a",
+        "5a33e75ac4a2826c6e06d759"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Magpul PRS Lite stock (FDE)",
+        "shortName": "Lite",
+        "description": "The PRS Lite provides much of the same adjustability and many features of our PRS GEN3 Precision-Adjustable Stock, with the added benefits of reduced weight and a price that’s almost half of its fully featured counterpart."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 8250,
+    "handbookPriceRoubles": 4699,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2200
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2200
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6932690e734e227c2ac44d41": {
+    "itemTplToClone": "6516e91f609aaf354b34b3e2",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "assets/content/items/mods/stocks/stock_ar15_dd_enhanced_collapsible_buttstock.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "Ergonomics": 16,
+      "Recoil": -22,
+      "Accuracy": 2
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black)",
+        "shortName": "DDM4 Black",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ]
+  },
+  "69326a29a2d0bb28cd4c19fd": {
+    "itemTplToClone": "6516e971a3d4c6497930b450",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "assets/content/items/mods/stocks/stock_ar15_dd_enhanced_collapsible_buttstock_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "Ergonomics": 16,
+      "Recoil": -22,
+      "Accuracy": 2
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE)",
+        "shortName": "DDM4 FDE",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ]
+  },
+  "69326b58fc8ca37435cd50c5": {
+    "itemTplToClone": "6516e9bc5901745209404287",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "assets/content/items/mods/stocks/stock_base_dd_thicker_convex_shape_buttpad_12mm.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "Ergonomics": 0,
+      "Recoil": -2,
+      "Accuracy": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense TCS 12mm Buttpad",
+        "shortName": "DDM4 12mm",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ]
+  },
+  "69326b8e88a95c5bcfc711d3": {
+    "itemTplToClone": "6516e9d7e239bd0c487e3766",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "assets/content/items/mods/stocks/stock_base_dd_thicker_convex_shape_buttpad_20mm.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "Ergonomics": -1,
+      "Recoil": -4,
+      "Accuracy": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense TCS 20mm Buttpad",
+        "shortName": "DDM4 20mm",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ]
+  },
+  "69326eea626d9d4943721c7a": {
+    "itemTplToClone": "5c793fb92e221644f31bfb64",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "Ergonomics": 4,
+      "Recoil": -4,
+      "Accuracy": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense M4A1 Buffer Tube",
+        "shortName": "DDM4 BT",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ]
+  }
+}

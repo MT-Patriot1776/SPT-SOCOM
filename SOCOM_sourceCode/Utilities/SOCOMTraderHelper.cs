@@ -7,14 +7,14 @@ using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using SPTarkov.Server.Core.Utils.Cloners;
 
-namespace SOCOM
+namespace SOCOM.Utilities
 {
     /// <summary>
     /// We inject this class into 'AddTraderWithDynamicAssorts' to help us with adding the new trader into the server
     /// </summary>
     [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 1)]
-    public class AddCustomTraderHelper(
-        ISptLogger<AddCustomTraderHelper> logger,
+    public class SOCOMTraderHelper(
+        ISptLogger<SOCOMTraderHelper> logger,
         ICloner cloner,
         DatabaseService databaseService,
         LocaleService localeService)

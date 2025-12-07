@@ -1,0 +1,36 @@
+{
+    "manifest": [
+		{
+			"key": "magazine_ddm4.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "magazine_ddm4_fde.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "magazine_ddm4_extended.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "magazine_ddm4_fde_extended.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"commonassets/physics/physicsmaterials.bundle"
+			]
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+	"692f1653086c9da0e38ae726": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "magazine_ddm4.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -1,
+      "BackgroundColor": "violet",
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "dc3487e3691cdd8b5e356d01",
+          "_parent": "692f1653086c9da0e38ae726",
+          "_max_count": 32,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691a2a1829cbc4e14845148c",
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense 5.56 magazine",
+        "shortName": "DD MAG",
+        "description": "The DD Magazine is the only AR-15 magazine worthy of the Daniel Defense name and is built with the same quality and standards as their world-class firearms. Its 32-round capacity for 5.56mm and 300 Blackout rounds is the most notable enhancement while maintaining the same size as industry-standard 30-round magazines."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 29200,
+    "handbookPriceRoubles": 19000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+   "692f16632f2edb13dedeae82": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "magazine_ddm4_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -1,
+      "BackgroundColor": "violet",
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "dc3487e3691cdd8b5e356d01",
+          "_parent": "692f16632f2edb13dedeae82",
+          "_max_count": 32,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691a2a1829cbc4e14845148c",
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense 5.56 magazine FDE",
+        "shortName": "DD MAG",
+        "description": "The DD Magazine is the only AR-15 magazine worthy of the Daniel Defense name and is built with the same quality and standards as their world-class firearms. Its 32-round capacity for 5.56mm and 300 Blackout rounds is the most notable enhancement while maintaining the same size as industry-standard 30-round magazines."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 29200,
+    "handbookPriceRoubles": 19000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+   "692f1671a0f275b59f779502": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "magazine_ddm4_extended.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -2,
+      "BackgroundColor": "violet",
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "dc3487e3691cdd8b5e356d01",
+          "_parent": "692f1671a0f275b59f779502",
+          "_max_count": 37,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691a2a1829cbc4e14845148c",
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense X 5.56 magazine",
+        "shortName": "DD X",
+        "description": "The DD Magazine is the only AR-15 magazine worthy of the Daniel Defense name and is built with the same quality and standards as their world-class firearms. Its 32-round capacity for 5.56mm and 300 Blackout rounds is the most notable enhancement while maintaining the same size as industry-standard 30-round magazines."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 29200,
+    "handbookPriceRoubles": 19000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+   "692f16819b9f0f72db2d02e3": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "MAGAZINE",
+    "handbookParentId": "MOD_MAGAZINE",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "magazine_ddm4_fde_extended.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -2,
+      "BackgroundColor": "violet",
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "dc3487e3691cdd8b5e356d01",
+          "_parent": "692f16819b9f0f72db2d02e3",
+          "_max_count": 37,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691a2a1829cbc4e14845148c",
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense X 5.56 magazine FDE",
+        "shortName": "DD X",
+        "description": "The DD Magazine is the only AR-15 magazine worthy of the Daniel Defense name and is built with the same quality and standards as their world-class firearms. Its 32-round capacity for 5.56mm and 300 Blackout rounds is the most notable enhancement while maintaining the same size as industry-standard 30-round magazines."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 29200,
+    "handbookPriceRoubles": 19000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

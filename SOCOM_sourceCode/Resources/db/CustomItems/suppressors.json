@@ -1,0 +1,1492 @@
+{
+  "6931cde41255b9de51ecdda2": {
+    "itemTplToClone": "21592d3fa4a2a0fa07fc5c2e",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "HeatFactor": 0,
+      "DurabilityBurnModificator": 0,
+      "Loudness": -30,
+      "Prefab": {
+        "path": "assets/content/items/mods/silencers/silencer_qdc_kac_qdc_suppressor_556x45.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KAC QDC CQB 7.62x51 sound suppressor",
+        "shortName": "QDC CQB 762",
+        "description": "Knight's Armament Company QDC CQB 7.62 sound suppressor, which can be installed on compatible QDC Flash Suppressor Kit and QDC Muzzle Brake Kit muzzle devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cdf3619a7ae864bd99e6": {
+    "itemTplToClone": "21cc9c10a1749109db74b288",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/suppressors/surefire_762mini2blk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 1,
+     "Recoil": -11,
+      "Ergonomics": -8,
+      "HeatFactor": 0,
+      "DurabilityBurnModificator": 0,
+      "Loudness": -30,
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM762-Mini2 7.62x51 sound suppressor (BLK)",
+        "shortName": "762-Mini2",
+        "description": "The SureFire SOCOM762-MINI2 delivers big performance levels in a small package optimized for 7.62 mm rifles equipped with 16-inch and longer barrels. It’s compact, measuring just 6.3 inches in length, but it places a premium on efficiency while maintaining the quality synonymous with the SureFire suppressor that dominated the demanding USSOCOM suppressor trials."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 70000,
+    "handbookPriceRoubles": 49500,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931ce07fdf4ada48e14110d": {
+    "itemTplToClone": "ee43d2dd34047cbe88ccf551",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/suppressors/surefire_762mini2fde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 1,
+     "Recoil": -11,
+      "Ergonomics": -8,
+      "HeatFactor": 0,
+      "DurabilityBurnModificator": 0,
+      "Loudness": -30,
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM762-Mini2 7.62x51 sound suppressor (FDE)",
+        "shortName": "762-Mini2",
+        "description": "The SureFire SOCOM762-MINI2 delivers big performance levels in a small package optimized for 7.62 mm rifles equipped with 16-inch and longer barrels. It’s compact, measuring just 6.3 inches in length, but it places a premium on efficiency while maintaining the quality synonymous with the SureFire suppressor that dominated the demanding USSOCOM suppressor trials."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 70000,
+    "handbookPriceRoubles": 49500,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931ce81a397e90a8b4ab979": {
+    "itemTplToClone": "ea0407e322d619bdb163795c",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "HeatFactor": 0,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_rc3_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM556-RC3 5.56x45 sound suppressor",
+        "shortName": "556-RC3",
+        "description": "The SureFire SOCOM556-RC3 suppressor combines decades of SureFire innovation in materials and manufacturing techniques with the most extensive flow dynamics study in history. The result of exclusive parametric modeling and multi-variable aerospace software research on advanced supercomputers, the RC3 is a gamechanger in modern suppressor technology."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 36520,
+    "handbookPriceRoubles": 52560,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931ce87095acda013522d2b": {
+    "itemTplToClone": "9f56d67e30b6ee14fbd99821",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "HeatFactor": 0,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_rc3_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM556-RC3 5.56x45 sound suppressor (FDE)",
+        "shortName": "556-RC3",
+        "description": "The SureFire SOCOM556-RC3 suppressor combines decades of SureFire innovation in materials and manufacturing techniques with the most extensive flow dynamics study in history. The result of exclusive parametric modeling and multi-variable aerospace software research on advanced supercomputers, the RC3 is a gamechanger in modern suppressor technology."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 39520,
+    "handbookPriceRoubles": 52560,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931ce971e7f5ddf5a940de7": {
+    "itemTplToClone": "f8e4f114d51be3084526ebdd",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Weight": 0.34,
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "DurabilityBurnModificator": 0,
+      "Loudness": -30,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "mods/suppressors/huxwrks_flow_556k_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Huxwrx Flow 556k 5.56x45 sound suppressor",
+        "shortName": "Flow 556k",
+        "description": "An innovative multi-caliber suppressor with patented and proven Flow-Through® and Torque Lock® technology. It is designed to reduce signature without negatively impacting cycling or service life. The FLOW 556k is DMLS printed in 17-4 Stainless."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cea462f3e4d50a2a1cc6": {
+    "itemTplToClone": "71da7f0c9145e92bd1022c53",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Weight": 0.34,
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "DurabilityBurnModificator": 0,
+      "Loudness": -30,
+      "Prefab": {
+        "path": "mods/suppressors/huxwrks_flow_556k_tan.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Huxwrx Flow 556k 5.56x45 sound suppressor (tan)",
+        "shortName": "Flow 556k",
+        "description": "An innovative multi-caliber suppressor with patented and proven Flow-Through® and Torque Lock® technology. It is designed to reduce signature without negatively impacting cycling or service life. The FLOW 556k is DMLS printed in 17-4 Stainless."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931ceb4a862add3a7f32924": {
+    "itemTplToClone": "6504516826a65f22fcb408bb",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Weight": 0.34,
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "DurabilityBurnModificator": 0,
+      "Loudness": -30,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_rc2_556_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM556-RC2 5.56x45 sound suppressor (BLK)",
+        "shortName": "556-RC2",
+        "description": "The SureFire SOCOM556-RC2 5.56x45 and .223 sound suppressor, can only be installed on compatible SureFire muzzle devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 31000,
+    "handbookPriceRoubles": 49500,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cf10092bdbcd19ebd268": {
+    "itemTplToClone": "55d267e876b4709cc2115736",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Width": 1,
+     "Recoil": -11,
+      "Loudness": -30,
+      "Ergonomics": -8,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.425,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_556mini2blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM556-Mini2 5.56x45 sound suppressor (BLK)",
+        "shortName": "556-Mini2",
+        "description": "When the going gets tight, an inch can mean the difference between efficiently engaging the enemy or getting caught in a vulnerable position. That’s why we created the SOCOM556-MINI2. It delivers performance levels similar to the model that assured SureFire’s victory in the demanding USSOCOM suppressor trials, but in a more compact package optimized for 14.5-inch and longer barrels."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 36520,
+    "handbookPriceRoubles": 52560,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cf1a46907172d269ddd3": {
+    "itemTplToClone": "b9a6137901c6b1dd27c0c0cd",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Width": 1,
+     "Recoil": -11,
+      "Loudness": -30,
+      "Ergonomics": -8,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.425,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_556mini2fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM556-Mini2 5.56x45 sound suppressor (FDE)",
+        "shortName": "556-Mini2",
+        "description": "When the going gets tight, an inch can mean the difference between efficiently engaging the enemy or getting caught in a vulnerable position. That’s why we created the SOCOM556-MINI2. It delivers performance levels similar to the model that assured SureFire’s victory in the demanding USSOCOM suppressor trials, but in a more compact package optimized for 14.5-inch and longer barrels."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 36520,
+    "handbookPriceRoubles": 52560,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cf4a9280998d68c31767": {
+    "itemTplToClone": "6efbc3fc36558fb085bbc36e",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Ergonomics": -9,
+      "Weight": 0.312,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_762ti2blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5d43021ca4b9362eab4b5e25",
+        "5c07c60e0db834002330051f",
+        "5447a9cd4bdc2dbd208b4567",
+        "6165ac306ef05c2ce828ef74",
+        "618428466ef05c2ce828f218",
+        "5bb2475ed4351e00853264e3",
+        "5c488a752e221602b412af63",
+        "5dcbd56fdbd3d91b3e5468d5",
+        "623063e994fc3f7b302a9696",
+        "5e21ca18e4d47f0da15e77dd",
+        "615d8e9867085e45ef1409c6",
+        "630f27f04f3f6281050b94d7",
+        "5df8ce05b11454561e39243b",
+        "5b0bbe4e5acfc40dc528a72d",
+        "6176aca650224f204c1da3fb",
+        "5f2a9575926fd9352339381f",
+        "5a367e5dc4a282000e49738f",
+        "5aafa857e5b5b00018480968"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM762-Ti2 7.62x51 sound suppressor (BLK)",
+        "shortName": "762-Ti2",
+        "description": "The SOCOM762-Ti2 enhances Surefire’s exceptional titanium suppressor line by providing the ultimate lightweight suppressor for 7.62 mm and .308-caliber bolt-action rifles. We designed it to exceed military sniper rifle suppressor specifications, making it the ideal lightweight suppressor for hunters and long-range precision shooters alike."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 40000,
+    "handbookPriceRoubles": 56200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cf5cf051a6cdc3613110": {
+    "itemTplToClone": "3cc1a01be7839321ab030074",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Ergonomics": -9,
+      "Weight": 0.312,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_762ti2fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5d43021ca4b9362eab4b5e25",
+        "5c07c60e0db834002330051f",
+        "5447a9cd4bdc2dbd208b4567",
+        "6165ac306ef05c2ce828ef74",
+        "618428466ef05c2ce828f218",
+        "5bb2475ed4351e00853264e3",
+        "5c488a752e221602b412af63",
+        "5dcbd56fdbd3d91b3e5468d5",
+        "623063e994fc3f7b302a9696",
+        "5e21ca18e4d47f0da15e77dd",
+        "615d8e9867085e45ef1409c6",
+        "630f27f04f3f6281050b94d7",
+        "5df8ce05b11454561e39243b",
+        "5b0bbe4e5acfc40dc528a72d",
+        "6176aca650224f204c1da3fb",
+        "5f2a9575926fd9352339381f",
+        "5a367e5dc4a282000e49738f",
+        "5aafa857e5b5b00018480968"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM762-Ti2 7.62x51 sound suppressor (FDE)",
+        "shortName": "762-Ti2",
+        "description": "The SOCOM762-Ti2 enhances Surefire’s exceptional titanium suppressor line by providing the ultimate lightweight suppressor for 7.62 mm and .308-caliber bolt-action rifles. We designed it to exceed military sniper rifle suppressor specifications, making it the ideal lightweight suppressor for hunters and long-range precision shooters alike."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 40000,
+    "handbookPriceRoubles": 56200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cf692e6237487ffc9668": {
+    "itemTplToClone": "f07b843f00a254d10d80ea5a",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Loudness": -30,
+      "Ergonomics": -9,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.595,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_762rc2blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM762-RC2 7.62X51 sound suppressor (BLK)",
+        "shortName": "762-RC2",
+        "description": "The SureFire SOCOM762-RC2 maintains our tradition of advancing suppressor design to produce the ultimate in performance. An improved version of the SOCOM762-RC that passed the extremely demanding US Special Operations Command (SOCOM) suppressor trials with flying colors, the RC2 showcases our years of expertise and dedication in producing precisely engineered suppressors out of the finest materials."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 38250,
+    "handbookPriceRoubles": 44000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931cf744514926e298d067b": {
+    "itemTplToClone": "9c8b54c2f8c843fe7ce6c6ca",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Loudness": -30,
+      "Ergonomics": -9,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.595,
+      "Prefab": {
+        "path": "mods/suppressors/surefire_762rc2fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire SOCOM762-RC2 7.62X51 sound suppressor (FDE)",
+        "shortName": "762-RC2",
+        "description": "The SureFire SOCOM762-RC2 maintains our tradition of advancing suppressor design to produce the ultimate in performance. An improved version of the SOCOM762-RC that passed the extremely demanding US Special Operations Command (SOCOM) suppressor trials with flying colors, the RC2 showcases our years of expertise and dedication in producing precisely engineered suppressors out of the finest materials."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 38250,
+    "handbookPriceRoubles": 44000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "693259ae63dbd926b675c76e": {
+    "itemTplToClone": "21db41fa34f997937c78b9d1",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Width": 1,
+      "Weight": 0.395,
+      "Prefab": {
+        "path": "mods/suppressors/prt_mcq_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_mount",
+          "_id": "0feb2d269a4dcecb31f4b414",
+          "_parent": "693259ae63dbd926b675c76e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b02e5f84df2f2f062a309ef9",
+                  "09b44a7e34b49045e3308e58",
+                  "08ce1f8189bcb4aa4a490d28",
+                  "edb383eec77614c936e627ec"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KAC QDC/MCQ-PRT 5.56x45 sound suppressor (BLK)",
+        "shortName": "MCQ-PRT",
+        "description": "KAC’s newest answer for a superior rifle suppressor — 3D printed and incorporating their Pressure Reduction Technology (PRT)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931d0fb57a4f4e0366ff8f7": {
+    "itemTplToClone": "0a4fce1b6ffcba383df0def7",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Width": 1,
+      "Weight": 0.395,
+      "Prefab": {
+        "path": "mods/suppressors/prt_mcq_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_mount",
+          "_id": "4ae25014829599587a8d947f",
+          "_parent": "6931d0fb57a4f4e0366ff8f7",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b02e5f84df2f2f062a309ef9",
+                  "09b44a7e34b49045e3308e58",
+                  "08ce1f8189bcb4aa4a490d28",
+                  "edb383eec77614c936e627ec"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KAC QDC/MCQ-PRT 5.56x45 sound suppressor (FDE)",
+        "shortName": "MCQ-PRT",
+        "description": "KAC’s newest answer for a superior rifle suppressor — 3D printed and incorporating their Pressure Reduction Technology (PRT)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931d12d1ac52211153217af": {
+    "itemTplToClone": "dfb4f1c3e5b85305c24ed2bc",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.545,
+      "Prefab": {
+        "path": "mods/suppressors/prt_supp_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_mount",
+          "_id": "2e76f94eded7f1a7496e2b46",
+          "_parent": "6931d12d1ac52211153217af",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b02e5f84df2f2f062a309ef9",
+                  "09b44a7e34b49045e3308e58",
+                  "08ce1f8189bcb4aa4a490d28",
+                  "edb383eec77614c936e627ec"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KAC QDC/CRS-PRT 5.56x45 sound suppressor (BLK)",
+        "shortName": "CRS-PRT",
+        "description": "KAC’s newest answer for a superior rifle suppressor — 3D printed and incorporating their Pressure Reduction Technology (PRT)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931d159dadf0b1c58e13f0d": {
+    "itemTplToClone": "bfa234cc36aac6c9e1190ab1",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -9,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.545,
+      "Prefab": {
+        "path": "mods/suppressors/prt_supp_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_mount",
+          "_id": "a6641ae933335a654bf5bda1",
+          "_parent": "6931d159dadf0b1c58e13f0d",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b02e5f84df2f2f062a309ef9",
+                  "09b44a7e34b49045e3308e58",
+                  "08ce1f8189bcb4aa4a490d28",
+                  "edb383eec77614c936e627ec"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KAC QDC/CRS-PRT 5.56x45 sound suppressor (FDE)",
+        "shortName": "CRS-PRT",
+        "description": "KAC’s newest answer for a superior rifle suppressor — 3D printed and incorporating their Pressure Reduction Technology (PRT)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931d1687ae0558e6235850e": {
+    "itemTplToClone": "8d28d2b0bc17dad17f09676d",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Recoil": -26,
+      "Ergonomics": -10,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.623,
+      "ExtraSizeLeft": 1,
+      "Prefab": {
+        "path": "mods/suppressors/dd_sguard_556.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Soundguard 5.56x45 sound suppressor",
+        "shortName": "SG-556",
+        "description": "Daniel SoundGuard Powered by KGM Suppressors utilize cutting-edge gas-flow dynamics that eliminate over-gassing and direct most gasses forward, not back in a shooter’s face. So, you experience less toxic gas blowback and can concentrate on putting more shots on target. State-of-the-art KGM technology significantly lowers impulse noise levels, protecting against hearing loss, while a patent-pending baffle stack and proprietary coating on internal parts reduce a firearm’s flash signature to virtually zero. Patent-pending gas-flow pathing stabilizes rounds to ensure extreme accuracy with minimal point-of-impact shift."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 42920,
+    "handbookPriceRoubles": 29000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6931d177999044d22e3767b6": {
+    "itemTplToClone": "a1fd0589018e71233daeb331",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Recoil": -26,
+      "Ergonomics": -10,
+      "Loudness": -30,
+      "DurabilityBurnModificator": 0,
+      "Weight": 0.623,
+      "ExtraSizeLeft": 1,
+      "Prefab": {
+        "path": "mods/suppressors/dd_sguard_762.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c78f2882e22165df16b832e",
+        "5c6d85e02e22165df16b81f4"
+      ],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Soundguard 7.62x51 sound suppressor",
+        "shortName": "SG-762",
+        "description": "Daniel SoundGuard Powered by KGM Suppressors utilize cutting-edge gas-flow dynamics that eliminate over-gassing and direct most gasses forward, not back in a shooter’s face. So, you experience less toxic gas blowback and can concentrate on putting more shots on target. State-of-the-art KGM technology significantly lowers impulse noise levels, protecting against hearing loss, while a patent-pending baffle stack and proprietary coating on internal parts reduce a firearm’s flash signature to virtually zero. Patent-pending gas-flow pathing stabilizes rounds to ensure extreme accuracy with minimal point-of-impact shift."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 47290,
+    "handbookPriceRoubles": 30000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  }
+}

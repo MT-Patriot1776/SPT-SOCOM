@@ -1,0 +1,219 @@
+{
+  "693239a9f599f5ae5e02fdcf": {
+    "itemTplToClone": "bf822c61ce39580e026b6801",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+    "overrideProperties": {
+      "DurabilityBurnModificator": 0.97,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "Accuracy": 5,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/huxwrks_556k_fh.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "7eb5e81ff5285e4334e10b0a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "693239a9f599f5ae5e02fdcf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "f8e4f114d51be3084526ebdd",
+                  "6931ce971e7f5ddf5a940de7",
+                  "71da7f0c9145e92bd1022c53",
+                  "6931cea462f3e4d50a2a1cc6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.104
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Huxwrx QD 5.56x45 Flash Hider",
+        "shortName": "QD 556",
+        "description": "The Flash Hider-QD 556 is designed to mitigate flash when unsuppressed. It is compatible with HX-QD series (556k, 556, 762, 762 Ti and Magnum Ti) and FLOW series (556k and 762 Ti) suppressors."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 18250,
+    "handbookPriceRoubles": 6200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "693243da6b63b85b4e8a78ca": {
+    "itemTplToClone": "626667e87379c44d557b7550",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+      "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 10,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/kac_mams.bundle",
+        "rcid": ""
+      },
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "Accuracy": 5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1
+    },
+    "locales": {
+      "en": {
+        "name": "KAC MAMS Muzzle Device",
+        "shortName": "MAMS",
+        "description": "KAC MAMS MUZZLE DEVICE"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "692f1580f1aafb024b7207dc": {
+    "itemTplToClone": "5c7fb51d2e2216001219ce11",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+      "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 10,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/sfmb_556.bundle",
+        "rcid": ""
+      },
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "Accuracy": 5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Surefire SFMB 5.56x45 Muzzle brake",
+        "shortName": "SFMB",
+        "description": "SureFire SFMB muzzle brake suppressor adapters greatly reduce both recoil impulse and muzzle rise so that your weapon tracks straight back, keeping you on target for faster shot-to-shot recovery. Our proprietary Impulse Diffusion design minimizes side blast and rear-directed concussion effects."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  }
+}
