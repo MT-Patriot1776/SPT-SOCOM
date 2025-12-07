@@ -10,9 +10,9 @@ NOTES:
 DEPENDENCIES:  
 \- MUST have WTT-CommonLib v2.0.x https://forge.sp-tarkov.com/mod/2310/wtt-commonlib
 
-\ - MUST have Epic's All in One v4.0.x https://forge.sp-tarkov.com/mod/1263/epics-all-in-one
+\- MUST have Epic's All in One v4.0.x https://forge.sp-tarkov.com/mod/1263/epics-all-in-one
 
-\- Mod works with no dependencies, however Keano Traders Scrolling makes a nice way to scroll through your traders without being blocked by in-game overlays and banners. [Kaeno-TraderScrolling](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/?highlight=kaeno)  
+\- Mod works without it, however Keano Traders Scrolling makes a nice way to scroll through your traders without being blocked by in-game overlays and banners. [Kaeno-TraderScrolling](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/?highlight=kaeno)  
   
 INSTALLATION:  
 \- Download and install dependancies. 
