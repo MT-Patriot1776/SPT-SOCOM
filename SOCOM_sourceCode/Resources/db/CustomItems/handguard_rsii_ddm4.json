@@ -9,7 +9,7 @@
       "Ergonomics": 10,
       "Recoil": -3,
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_ii_fsp.bundle",
+        "path": "mods/ar15_handguards/dd_risii_handguards/ris_ii_12_5_fsp.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -308,7 +308,7 @@
       "Ergonomics": 10,
       "Recoil": -3,
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_ii_fspl.bundle",
+        "path": "mods/ar15_handguards/dd_risii_handguards/ris_ii_12_5_fspl.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
