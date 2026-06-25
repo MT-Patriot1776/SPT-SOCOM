@@ -5,7 +5,7 @@
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
 		},
 		{
@@ -13,7 +13,7 @@
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
 		},
 		{
@@ -21,7 +21,7 @@
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
 		},
 		{
@@ -29,7 +29,7 @@
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
         }
     ]
