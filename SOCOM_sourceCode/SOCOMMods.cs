@@ -17,7 +17,7 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.0") }
+        { "com.wtt.commonlib", new Range("~2.0.20") }
     };
     public override string? Url { get; init; } = "https://github.com/MT-Patriot1776/SPT-SOCOM";
     public override bool? IsBundleMod { get; init; } = true;
@@ -32,5 +32,6 @@ public class SOCOM(
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
     }
 }
