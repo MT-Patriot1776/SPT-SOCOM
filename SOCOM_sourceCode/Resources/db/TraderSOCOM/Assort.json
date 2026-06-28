@@ -67,9 +67,75 @@
       }
     },
     {
+      "_comment": "Morphine",
+      "_id": "544fb3f34bdc2d03748b456a",
+      "_tpl": "544fb3f34bdc2d03748b456a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_comment": "Propital",
       "_id": "5c0e530286f7747fa1419862",
       "_tpl": "5c0e530286f7747fa1419862",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Trimadol",
+      "_id": "637b620db7afa97bfc3d7009",
+      "_tpl": "637b620db7afa97bfc3d7009",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "SJ1",
+      "_id": "5c0e531286f7747fa54205c2",
+      "_tpl": "5c0e531286f7747fa54205c2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Adrenaline",
+      "_id": "5c10c8fd86f7743d7d706df3",
+      "_tpl": "5c10c8fd86f7743d7d706df3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Obdolbos",
+      "_id": "5ed5166ad380ab312177c100",
+      "_tpl": "5ed5166ad380ab312177c100",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Obdolbos2",
+      "_id": "637b60c3b7afa97bfc3d7001",
+      "_tpl": "637b60c3b7afa97bfc3d7001",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -246,6 +312,61 @@
       "_comment": "GrenadeCase",
       "_id": "5e2af55f86f7746d4159f07c",
       "_tpl": "5e2af55f86f7746d4159f07c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "PlateCase",
+      "_id": "67600929bd0a0549d70993f6",
+      "_tpl": "67600929bd0a0549d70993f6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "InjectorCase",
+      "_id": "619cbf7d23893217ec30b689",
+      "_tpl": "619cbf7d23893217ec30b689",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "THICCItemsCase",
+      "_id": "5c0a840b86f7742ffa4f2482",
+      "_tpl": "5c0a840b86f7742ffa4f2482",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "SICCCase",
+      "_id": "5d235bb686f77443f4331278",
+      "_tpl": "5d235bb686f77443f4331278",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DogTagCase",
+      "_id": "5c093e3486f77430cb02e593",
+      "_tpl": "5c093e3486f77430cb02e593",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -433,72 +554,6 @@
       "_comment": "DD15inMFRDeepWoods",
       "_id": "692f17209f58b096cfa74c58",
       "_tpl": "692f17209f58b096cfa74c58",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD9RISIIBLK",
-      "_id": "69346f197138f11531742012",
-      "_tpl": "69346f197138f11531742012",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD9LRISIIBLK",
-      "_id": "69347060f1ac6a487d75753c",
-      "_tpl": "69347060f1ac6a487d75753c",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD9RISIIBRN",
-      "_id": "69346ecfd299e247c77f4fb0",
-      "_tpl": "69346ecfd299e247c77f4fb0",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD9LRISIIBRN",
-      "_id": "69346f6e9f8c013a9241c4e8",
-      "_tpl": "69346f6e9f8c013a9241c4e8",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD13RIS2UPPRBRN",
-      "_id": "692f13c264cb93c0b8f714e0",
-      "_tpl": "692f13c264cb93c0b8f714e0",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD13RIS2LWRBRN",
-      "_id": "692f13ecda089471f5395f41",
-      "_tpl": "692f13ecda089471f5395f41",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -763,17 +818,6 @@
       "_comment": "DD9URIS3DFDE",
       "_id": "692f125cca796f4235b8dd26",
       "_tpl": "692f125cca796f4235b8dd26",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": true,
-        "StackObjectsCount": 999999999
-      }
-    },
-    {
-      "_comment": "DD12URIS2BROWN",
-      "_id": "692f500e88132adf94a9edaa",
-      "_tpl": "692f500e88132adf94a9edaa",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -1449,9 +1493,21 @@
           },
           {
             "_id": "693479173cc37e5f30a14354",
-            "_tpl": "69346f6e9f8c013a9241c4e8",
+            "_tpl": "6a3dddd44d8fb1c1381861fd",
             "parentId": "693479173cc37e5f30a14350",
             "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a3f31fcbea1f894bc849724",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "693479173cc37e5f30a14350",
+            "slotId": "mod_tactical_004"
+          },
+          {
+            "_id": "6a3f31fcbea1f894bc849725",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "693479173cc37e5f30a14350",
+            "slotId": "mod_tactical_003"
           },
           {
             "_id": "693479173cc37e5f30a14355",
@@ -1501,22 +1557,6 @@
             "_tpl": "692f48ddde3341382bb24768",
             "parentId": "6934c4c9e49e13853071b1cb",
             "slotId": "mod_charge"
-          },
-          {
-            "_id": "6934c4c9e49e13853071b1d1",
-            "_tpl": "691a2a1829cbc4e14845148c",
-            "parentId": "6934c4c9e49e13853071b1cb",
-            "slotId": "patron_in_weapon"
-          },
-          {
-            "_id": "6934c4c9e49e13853071b1d2",
-            "_tpl": "691a2a1829cbc4e14845148c",
-            "parentId": "6934c4c9e49e13853071b1cd",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 32
-            }
           },
           {
             "_id": "6934c4c9e49e13853071b1d3",
@@ -1622,9 +1662,21 @@
           },
           {
             "_id": "6934c4c9e49e13853071b1dd",
-            "_tpl": "69346f6e9f8c013a9241c4e8",
+            "_tpl": "6a3dddd44d8fb1c1381861fd",
             "parentId": "6934c4c9e49e13853071b1d5",
             "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a400e3a0ecf2d6a6819361b",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "6934c4c9e49e13853071b1d5",
+            "slotId": "mod_tactical_004"
+          },
+          {
+            "_id": "6a400e3a0ecf2d6a6819361c",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "6934c4c9e49e13853071b1d5",
+            "slotId": "mod_tactical_003"
           },
           {
             "_id": "6934c4c9e49e13853071b1de",
@@ -1707,9 +1759,21 @@
           },
           {
             "_id": "693480b34539757da8325b25",
-            "_tpl": "692f500e88132adf94a9edaa",
+            "_tpl": "6a3eac21430b305562267d09",
             "parentId": "693480b34539757da8325b21",
             "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a400d5897ec8e3bc8d7081d",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "693480b34539757da8325b25",
+            "slotId": "mod_tactical_004"
+          },
+          {
+            "_id": "6a400d5897ec8e3bc8d7081e",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "693480b34539757da8325b25",
+            "slotId": "mod_tactical_003"
           },
           {
             "_id": "693480b34539757da8325b26",
@@ -1731,7 +1795,7 @@
           },
           {
             "_id": "693480b34539757da8325b29",
-            "_tpl": "692f13ecda089471f5395f41",
+            "_tpl": "6a3ddcbc3431105320040d43",
             "parentId": "693480b34539757da8325b25",
             "slotId": "mod_handguard"
           },
@@ -1877,7 +1941,7 @@
           },
           {
             "_id": "6934e08c73b8231bacf15ef7",
-            "_tpl": "692f500e88132adf94a9edaa",
+            "_tpl": "6a3eac21430b305562267d09",
             "parentId": "6934e08c73b8231bacf15ef3",
             "slotId": "mod_handguard"
           },
@@ -2290,7 +2354,7 @@
           },
           {
             "_id": "6934879eea433a4e0449dd9f",
-            "_tpl": "69346f197138f11531742012",
+            "_tpl": "6a3ebaec0e8879fc1c2e418a",
             "parentId": "6934879eea433a4e0449dd9b",
             "slotId": "mod_handguard"
           },
@@ -2314,7 +2378,7 @@
           },
           {
             "_id": "6934879eea433a4e0449dda3",
-            "_tpl": "69347060f1ac6a487d75753c",
+            "_tpl": "6a3edb6d2db9db1be6528638",
             "parentId": "6934879eea433a4e0449dd9f",
             "slotId": "mod_handguard"
           },
@@ -2381,7 +2445,7 @@
           },
           {
             "_id": "693491b0af718d69bc6a27a7",
-            "_tpl": "692f13c264cb93c0b8f714e0",
+            "_tpl": "6a3ddcd497710b539d104c22",
             "parentId": "693491b0af718d69bc6a27a3",
             "slotId": "mod_handguard"
           },
@@ -2423,9 +2487,21 @@
           },
           {
             "_id": "693491b0af718d69bc6a27ac",
-            "_tpl": "692f13ecda089471f5395f41",
+            "_tpl": "6a3ddd61de848840fc0f6f30",
             "parentId": "693491b0af718d69bc6a27a7",
             "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a4017731700e73654e3019d",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "693491b0af718d69bc6a27a7",
+            "slotId": "mod_tactical_004"
+          },
+          {
+            "_id": "6a4017731700e73654e3019e",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "693491b0af718d69bc6a27a7",
+            "slotId": "mod_tactical_005"
           },
           {
             "_id": "693491b0af718d69bc6a27ad",
@@ -2490,7 +2566,7 @@
           },
           {
             "_id": "69349a4b99595a18dc43a10e",
-            "_tpl": "692f500e88132adf94a9edaa",
+            "_tpl": "6a3ddd4eb8d133609fd93297",
             "parentId": "69349a4b99595a18dc43a10a",
             "slotId": "mod_handguard"
           },
@@ -2514,14 +2590,237 @@
           },
           {
             "_id": "69349a4b99595a18dc43a112",
-            "_tpl": "692f13ecda089471f5395f41",
+            "_tpl": "6a3ddd61de848840fc0f6f30",
             "parentId": "69349a4b99595a18dc43a10e",
             "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a400f8c3b3e414898a561d3",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "69349a4b99595a18dc43a10e",
+            "slotId": "mod_tactical_004"
+          },
+          {
+            "_id": "6a400f8c3b3e414898a561d4",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "69349a4b99595a18dc43a10e",
+            "slotId": "mod_tactical_003"
           },
           {
             "_id": "69349a4b99595a18dc43a113",
             "_tpl": "69326b58fc8ca37435cd50c5",
             "parentId": "69349a4b99595a18dc43a10f",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_comment": "DDMK12SOCOMPreset",          
+            "Name": "Daniel Defense MK12",
+            "_name": "Daniel Defense MK12",               
+			"_id": "6a404058e0453f59d430171d",
+            "_tpl": "69349b67a3fe466bf138ab4c",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+            "UnlimitedCount": true,
+            "StackObjectsCount": 999999999
+				}
+          },
+          {
+            "_id": "6a404058e0453f59d430171e",
+            "_tpl": "692f0cfecf195edfbaec4b1d",
+            "parentId": "6a404058e0453f59d430171d",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6a404058e0453f59d430171f",
+            "_tpl": "692f1653086c9da0e38ae726",
+            "parentId": "6a404058e0453f59d430171d",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a404058e0453f59d4301720",
+            "_tpl": "692f155a1754d76d05880b37",
+            "parentId": "6a404058e0453f59d430171d",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a404058e0453f59d4301721",
+            "_tpl": "69326eea626d9d4943721c7a",
+            "parentId": "6a404058e0453f59d430171d",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a404058e0453f59d4301722",
+            "_tpl": "692f48ddde3341382bb24768",
+            "parentId": "6a404058e0453f59d430171d",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "6a404058e0453f59d4301725",
+            "_tpl": "b2d57758abe9bb9345c58e4a",
+            "parentId": "6a404058e0453f59d4301720",
+            "slotId": "mod_scope"
+          },
+          {
+            "_id": "6a404058e0453f59d4301726",
+            "_tpl": "cd97339d6bfa982e1539bb7d",
+            "parentId": "6a404058e0453f59d4301720",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a404058e0453f59d4301727",
+            "_tpl": "6a3ddd4eb8d133609fd93297",
+            "parentId": "6a404058e0453f59d4301720",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a404058e0453f59d4301728",
+            "_tpl": "5dfa3d7ac41b2312ea33362a",
+            "parentId": "6a404058e0453f59d4301720",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a404058e0453f59d4301729",
+            "_tpl": "6932690e734e227c2ac44d41",
+            "parentId": "6a404058e0453f59d4301721",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "6a404058e0453f59d430172a",
+            "_tpl": "69817cd3ee9b6f2ceb000001",
+            "parentId": "6a404058e0453f59d4301725",
+            "slotId": "mod_scope",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a404058e0453f59d430172b",
+            "_tpl": "e4f2fd43b5613348b6e25bb5",
+            "parentId": "6a404058e0453f59d4301725",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "6a404058e0453f59d430172c",
+            "_tpl": "d4424e8a8d6e6789adbfcde2",
+            "parentId": "6a404058e0453f59d4301725",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6a404058e0453f59d430172d",
+            "_tpl": "692f44b00fba3ad3050026e7",
+            "parentId": "6a404058e0453f59d4301726",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6a404058e0453f59d430172e",
+            "_tpl": "692f1580f1aafb024b7207dc",
+            "parentId": "6a404058e0453f59d4301726",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a404058e0453f59d430172f",
+            "_tpl": "6a3ddd61de848840fc0f6f30",
+            "parentId": "6a404058e0453f59d4301727",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a404058e0453f59d4301730",
+            "_tpl": "5dfa3d950dee1b22f862eae0",
+            "parentId": "6a404058e0453f59d4301727",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a404058e0453f59d4301731",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "6a404058e0453f59d4301727",
+            "slotId": "mod_tactical_003"
+          },
+          {
+            "_id": "6a404058e0453f59d4301732",
+            "_tpl": "6a17976b6252dc8bcb000001",
+            "parentId": "6a404058e0453f59d4301727",
+            "slotId": "mod_tactical_004"
+          },
+          {
+            "_id": "6a404058e0453f59d4301733",
+            "_tpl": "81ee14e532991b2b9993ae0e",
+            "parentId": "6a404058e0453f59d430172c",
+            "slotId": "mod_scope_000"
+          },
+          {
+            "_id": "6a404058e0453f59d4301734",
+            "_tpl": "5a32aa8bc4a2826c6e06d737",
+            "parentId": "6a404058e0453f59d4301733",
+            "slotId": "mod_scope_001",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a404058e0453f59d4301735",
+            "_tpl": "6931cf10092bdbcd19ebd268",
+            "parentId": "6a404058e0453f59d430172e",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a404058e0453f59d4301736",
+            "_tpl": "6a4025c180f5b4c7eae13fe3",
+            "parentId": "6a404058e0453f59d430172f",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "6a404058e0453f59d4301737",
+            "_tpl": "692f15f339bcfe15b381c993",
+            "parentId": "6a404058e0453f59d430172f",
+            "slotId": "mod_tactical_003"
+          },
+          {
+            "_id": "6a404058e0453f59d4301738",
+            "_tpl": "69326b58fc8ca37435cd50c5",
+            "parentId": "6a404058e0453f59d4301729",
             "slotId": "mod_stock_000"
           },
     {
@@ -6305,6 +6604,138 @@
       }
     },
     {
+      "_comment": "Geissele34mmMountBLK",
+      "_id": "b2d57758abe9bb9345c58e4a",
+      "_tpl": "b2d57758abe9bb9345c58e4a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountFDE",
+      "_id": "67ea8b32e0d7701fc6bfc5bf",
+      "_tpl": "67ea8b32e0d7701fc6bfc5bf",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountCapBLK",
+      "_id": "e4f2fd43b5613348b6e25bb5",
+      "_tpl": "e4f2fd43b5613348b6e25bb5",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountCapFDE",
+      "_id": "2437ee507945dfe829ddf298",
+      "_tpl": "2437ee507945dfe829ddf298",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountRMRCap90BLK",
+      "_id": "ee8d5029626f7ba2e1510676",
+      "_tpl": "ee8d5029626f7ba2e1510676",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountRMRCap90FDE",
+      "_id": "959b54e7798be68a1a54ff81",
+      "_tpl": "959b54e7798be68a1a54ff81",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountRMRCap45BLK",
+      "_id": "d4424e8a8d6e6789adbfcde2",
+      "_tpl": "d4424e8a8d6e6789adbfcde2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "Geissele34mmMountRMRCap45FDE",
+      "_id": "42aac757e1ac8161f6ec6766",
+      "_tpl": "42aac757e1ac8161f6ec6766",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ElcanSpecterRMRMount",
+      "_id": "eeb62fba336b644c26813276",
+      "_tpl": "eeb62fba336b644c26813276",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ReptiliaRMRRiserLvl1",
+      "_id": "81ee14e532991b2b9993ae0e",
+      "_tpl": "81ee14e532991b2b9993ae0e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ReptiliaRMRRiserLvl2",
+      "_id": "ac738256c846acc25b183a80",
+      "_tpl": "ac738256c846acc25b183a80",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ReptiliaRMRRiserLvl3",
+      "_id": "26f02172906cbaa1ae78e57d",
+      "_tpl": "26f02172906cbaa1ae78e57d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_comment": "NightForce30mm",
       "_id": "5b3b99265acfc4704b4a1afb",
       "_tpl": "5b3b99265acfc4704b4a1afb",
@@ -6789,6 +7220,39 @@
       }
     },
     {
+      "_comment": "NightForceATACR1to8",
+      "_id": "69817cd3ee9b6f2ceb000001",
+      "_tpl": "69817cd3ee9b6f2ceb000001",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "VortexEleanor1to10BLK",
+      "_id": "69685e95d7a97cb3f2000001",
+      "_tpl": "69685e95d7a97cb3f2000001",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "VortexEleanor1to10FDE",
+      "_id": "6968615ed7a97cb3f2000004",
+      "_tpl": "6968615ed7a97cb3f2000004",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_comment": "EOTechVudu",
       "_id": "5b3b99475acfc432ff4dcbee",
       "_tpl": "5b3b99475acfc432ff4dcbee",
@@ -7164,6 +7628,39 @@
       }
     },
     {
+      "_comment": "BCMGunfighterBLK",
+      "_id": "6a4025c180f5b4c7eae13fe3",
+      "_tpl": "6a4025c180f5b4c7eae13fe3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "BCMGunfighterMLOKBLK",
+      "_id": "6a4025c180f5b4c7eae13fe5",
+      "_tpl": "6a4025c180f5b4c7eae13fe5",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "BCMGunfighterMLOKFDE",
+      "_id": "6a4025c180f5b4c7eae13fe7",
+      "_tpl": "6a4025c180f5b4c7eae13fe7",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_comment": "TangoDownGripBLK",
       "_id": "6934860237824f28385cc896",
       "_tpl": "6934860237824f28385cc896",
@@ -7450,9 +7947,9 @@
       }
     },
     {
-      "_comment": "DanielDefenseRISII12inHandguard",
-      "_id": "5c9a25172e2216000f20314e",
-      "_tpl": "5c9a25172e2216000f20314e",
+      "_comment": "DanielDefenseRISII12inFSPHandguardFDE",
+      "_id": "6a3ddca5e42d9a25bc7c304d",
+      "_tpl": "6a3ddca5e42d9a25bc7c304d",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -7461,9 +7958,9 @@
       }
     },
     {
-      "_comment": "DanielDefenseRISII12inHandguardLower",
-      "_id": "638f2003bbd47aeb9e0ff637",
-      "_tpl": "638f2003bbd47aeb9e0ff637",
+      "_comment": "DanielDefenseRISII12inHandguardFDE",
+      "_id": "6a3eac21430b305562267d09",
+      "_tpl": "6a3eac21430b305562267d09",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -7472,9 +7969,9 @@
       }
     },
     {
-      "_comment": "DanielDefenseRISII9inHandguard",
-      "_id": "55f84c3c4bdc2d5f408b4576",
-      "_tpl": "55f84c3c4bdc2d5f408b4576",
+      "_comment": "DanielDefenseRISII12inHandguardLowerFDE",
+      "_id": "6a3ddcbc3431105320040d43",
+      "_tpl": "6a3ddcbc3431105320040d43",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -7483,9 +7980,9 @@
       }
     },
     {
-      "_comment": "DanielDefenseRISII9inHandguardLower",
-      "_id": "638f1ff84822287cad04be9d",
-      "_tpl": "638f1ff84822287cad04be9d",
+      "_comment": "DanielDefenseRISII12inFSPHandguardBLK",
+      "_id": "6a3ddcd497710b539d104c22",
+      "_tpl": "6a3ddcd497710b539d104c22",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -7494,9 +7991,9 @@
       }
     },
     {
-      "_comment": "DanielDefenseRISII9inHandguardBlk",
-      "_id": "588b56d02459771481110ae2",
-      "_tpl": "588b56d02459771481110ae2",
+      "_comment": "DanielDefenseRISII12inHandguardBLK",
+      "_id": "6a3ddd4eb8d133609fd93297",
+      "_tpl": "6a3ddd4eb8d133609fd93297",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -7505,9 +8002,64 @@
       }
     },
     {
-      "_comment": "DanielDefenseRISII9inHandguardLowerBlk",
-      "_id": "6396aaa9a52ace83df0840ab",
-      "_tpl": "6396aaa9a52ace83df0840ab",
+      "_comment": "DanielDefenseRISII12inHandguardLowerBLK",
+      "_id": "6a3ddd61de848840fc0f6f30",
+      "_tpl": "6a3ddd61de848840fc0f6f30",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DanielDefenseRISII9inHandguardFDE",
+      "_id": "69346ecfd299e247c77f4fb0",
+      "_tpl": "69346ecfd299e247c77f4fb0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DanielDefenseRISII9inHandguardLowerFDE",
+      "_id": "6a3dddd44d8fb1c1381861fd",
+      "_tpl": "6a3dddd44d8fb1c1381861fd",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DanielDefenseRISII9inHandguardBLK",
+      "_id": "6a3ebaec0e8879fc1c2e418a",
+      "_tpl": "6a3ebaec0e8879fc1c2e418a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DanielDefenseRISII9inFSPHandguardBLK",
+      "_id": "6a3dde0364246da45253fb60",
+      "_tpl": "6a3dde0364246da45253fb60",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DanielDefenseRISII9inLowerHandguardBLK",
+      "_id": "6a3edb6d2db9db1be6528638",
+      "_tpl": "6a3edb6d2db9db1be6528638",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -7629,6 +8181,28 @@
       "_comment": "KACURX14inHandguard",
       "_id": "5df916dfbb49d91fb446d6b9",
       "_tpl": "5df916dfbb49d91fb446d6b9",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "DD7inRailCover",
+      "_id": "6a17976b6252dc8bcb000001",
+      "_tpl": "6a17976b6252dc8bcb000001",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "KACRISRailCover",
+      "_id": "68b26fcb9db8d58487000001",
+      "_tpl": "68b26fcb9db8d58487000001",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -9122,6 +9696,17 @@
       }
     },
     {
+      "_comment": "BetaCMag100RoundDrum",
+      "_id": "6761765f1f08ed5e8800b7a6",
+      "_tpl": "6761765f1f08ed5e8800b7a6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
       "_comment": "AR10XProductsX25DrumMag50Round",
       "_id": "6761770e48fa5c377e06fc3c",
       "_tpl": "6761770e48fa5c377e06fc3c",
@@ -9881,6 +10466,50 @@
       }
     },
     {
+      "_comment": "OpsCoreComtacBLK",
+      "_id": "252d9d1d2552909d0a76033c",
+      "_tpl": "252d9d1d2552909d0a76033c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_comment": "OpsCoreComtacBLKCamo",
+      "_id": "cd54f04eb7f0410772acbf35",
+      "_tpl": "cd54f04eb7f0410772acbf35",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_comment": "OpsCoreComtacTAN",
+      "_id": "5b6e75274d865619855c447a",
+      "_tpl": "5b6e75274d865619855c447a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_comment": "OpsCoreComtacTANCamo",
+      "_id": "7e6c09774462ad3ef5025f08",
+      "_tpl": "7e6c09774462ad3ef5025f08",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
       "_comment": "FastMTBlack",
       "_id": "5a154d5cfcdbcb001a3b00da",
       "_tpl": "5a154d5cfcdbcb001a3b00da",
@@ -10100,6 +10729,28 @@
       }
     },
     {
+      "_comment": "ArmorRepairKit",
+      "_id": "591094e086f7747caa7bb2ef",
+      "_tpl": "591094e086f7747caa7bb2ef",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_comment": "WeaponRepairKit",
+      "_id": "5910968f86f77425cf569c32",
+      "_tpl": "5910968f86f77425cf569c32",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
       "_comment": "TrooperMask",
       "_id": "5ea058e01dbce517f324b3e2",
       "_tpl": "5ea058e01dbce517f324b3e2",
@@ -10279,6 +10930,39 @@
       "_comment": "SAPISidePlates",
       "_id": "6557458f83942d705f0c4962",
       "_tpl": "6557458f83942d705f0c4962",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 999999
+      }
+    },
+    {
+      "_comment": "Hesco3800Plate",
+      "_id": "b5223cb4b895fb6a438ac533",
+      "_tpl": "b5223cb4b895fb6a438ac533",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 999999
+      }
+    },
+    {
+      "_comment": "Hesco4800Plate",
+      "_id": "cf2ab73b0f0c00a0df3852e4",
+      "_tpl": "cf2ab73b0f0c00a0df3852e4",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 999999
+      }
+    },
+    {
+      "_comment": "HescoU211Plate",
+      "_id": "58c0a16f420c97fe1c3d2e27",
+      "_tpl": "58c0a16f420c97fe1c3d2e27",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -10814,8 +11498,86 @@
       "parentId": "6767091061772d247803aa40"
     },
     {
+      "_comment": "AvonM53A1GasMask",
+      "_id": "c544b1b34703aebab8ee0e5c",
+      "_tpl": "c544b1b34703aebab8ee0e5c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFear",
       "_id": "5ab8f39486f7745cd93a1cca",
       "_tpl": "5ab8f39486f7745cd93a1cca",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFearSurpat",
+      "_id": "67a9dcbac185de5a4d0c2a06",
+      "_tpl": "67a9dcbac185de5a4d0c2a06",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFearGreen",
+      "_id": "67a9dc769de6826a650ee066",
+      "_tpl": "67a9dc769de6826a650ee066",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFearTiger",
+      "_id": "67a9dd619de6826a650ee06c",
+      "_tpl": "67a9dd619de6826a650ee06c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFearTropic",
+      "_id": "67a9dce47faa4210bb0807c8",
+      "_tpl": "67a9dce47faa4210bb0807c8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFearDesert",
+      "_id": "67a9dccf9de6826a650ee06a",
+      "_tpl": "67a9dccf9de6826a650ee06a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+      }
+    },
+    {
+      "_comment": "ColdFearOak",
+      "_id": "67a9dca99de6826a650ee068",
+      "_tpl": "67a9dca99de6826a650ee068",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -10845,10 +11607,73 @@
         }
       ]
     ],
+    "c544b1b34703aebab8ee0e5c": [
+      [
+        {
+          "_comment": "AvonM53A1GasMask",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 130.0
+        }
+      ]
+    ],
     "5ab8f39486f7745cd93a1cca": [
       [
         {
           "_comment": "ColdFear",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 19.0
+        }
+      ]
+    ],
+    "67a9dcbac185de5a4d0c2a06": [
+      [
+        {
+          "_comment": "ColdFearSurpat",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 19.0
+        }
+      ]
+    ],
+    "67a9dc769de6826a650ee066": [
+      [
+        {
+          "_comment": "ColdFearGreen",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 19.0
+        }
+      ]
+    ],
+    "67a9dd619de6826a650ee06c": [
+      [
+        {
+          "_comment": "ColdFearTiger",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 19.0
+        }
+      ]
+    ],
+    "67a9dce47faa4210bb0807c8": [
+      [
+        {
+          "_comment": "ColdFearTropic",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 19.0
+        }
+      ]
+    ],
+    "67a9dccf9de6826a650ee06a": [
+      [
+        {
+          "_comment": "ColdFearDesert",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 19.0
+        }
+      ]
+    ],
+    "67a9dca99de6826a650ee068": [
+      [
+        {
+          "_comment": "ColdFearOak",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 19.0
         }
@@ -10908,12 +11733,66 @@
         }
       ]
     ],
+    "544fb3f34bdc2d03748b456a": [
+      [
+        {
+          "_comment": "Morphine",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 47.0
+        }
+      ]
+    ],
     "5c0e530286f7747fa1419862": [
       [
         {
           "_comment": "Propital",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 68.0
+        }
+      ]
+    ],
+    "637b620db7afa97bfc3d7009": [
+      [
+        {
+          "_comment": "Trimadol",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 140.0
+        }
+      ]
+    ],
+    "5c0e531286f7747fa54205c2": [
+      [
+        {
+          "_comment": "SJ1",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 140.0
+        }
+      ]
+    ],
+    "5c10c8fd86f7743d7d706df3": [
+      [
+        {
+          "_comment": "Adrenaline",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 47.0
+        }
+      ]
+    ],
+    "5ed5166ad380ab312177c100": [
+      [
+        {
+          "_comment": "Obdolbos",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 47.0
+        }
+      ]
+    ],
+    "637b60c3b7afa97bfc3d7001": [
+      [
+        {
+          "_comment": "Obdolbos2",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 47.0
         }
       ]
     ],
@@ -11183,6 +12062,17 @@
         }
       ]
     ],
+    "6a404058e0453f59d430171d": [
+      [
+        {
+          "Name": "Daniel Defense MK12 SOCOM",
+          "_name": "Daniel Defense MK12 SOCOM",
+          "_comment": "DDMK12SOCOMPreset",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 2400.0
+        }
+      ]
+    ],
     "5e00cfa786f77469dc6e5685": [
       [
         {
@@ -11225,6 +12115,24 @@
           "_comment": "SLAAPPlate",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 286.0
+        }
+      ]
+    ],
+    "591094e086f7747caa7bb2ef": [
+      [
+        {
+          "_comment": "ArmorRepairKit",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 700.0
+        }
+      ]
+    ],
+    "5910968f86f77425cf569c32": [
+      [
+        {
+          "_comment": "WeaponRepairKit",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 350.0
         }
       ]
     ],
@@ -11381,6 +12289,33 @@
         }
       ]
     ],
+    "b5223cb4b895fb6a438ac533": [
+      [
+        {
+          "_comment": "Hesco3800Plate",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 134.0
+        }
+      ]
+    ],
+    "cf2ab73b0f0c00a0df3852e4": [
+      [
+        {
+          "_comment": "Hesco4800Plate",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 377.0
+        }
+      ]
+    ],
+    "58c0a16f420c97fe1c3d2e27": [
+      [
+        {
+          "_comment": "HescoU211Plate",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 117.0
+        }
+      ]
+    ],
     "67673ceff12650416c0313f3": [
       [
         {
@@ -11531,6 +12466,114 @@
           "_comment": "GeisseleSPRMRMountDDC",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 8.0
+        }
+      ]
+    ],
+    "b2d57758abe9bb9345c58e4a": [
+      [
+        {
+          "_comment": "Geissele34mmMountBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 70.0
+        }
+      ]
+    ],
+    "67ea8b32e0d7701fc6bfc5bf": [
+      [
+        {
+          "_comment": "Geissele34mmMountFDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 72.0
+        }
+      ]
+    ],
+    "e4f2fd43b5613348b6e25bb5": [
+      [
+        {
+          "_comment": "Geissele34mmMountCapBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 14.0
+        }
+      ]
+    ],
+    "2437ee507945dfe829ddf298": [
+      [
+        {
+          "_comment": "Geissele34mmMountCapFDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 14.0
+        }
+      ]
+    ],
+    "ee8d5029626f7ba2e1510676": [
+      [
+        {
+          "_comment": "Geissele34mmMountRMRCap90BLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 14.0
+        }
+      ]
+    ],
+    "959b54e7798be68a1a54ff81": [
+      [
+        {
+          "_comment": "Geissele34mmMountRMRCap90FDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 14.0
+        }
+      ]
+    ],
+    "d4424e8a8d6e6789adbfcde2": [
+      [
+        {
+          "_comment": "Geissele34mmMountRMRCap45BLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 14.0
+        }
+      ]
+    ],
+    "42aac757e1ac8161f6ec6766": [
+      [
+        {
+          "_comment": "Geissele34mmMountRMRCap45FDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 14.0
+        }
+      ]
+    ],
+    "eeb62fba336b644c26813276": [
+      [
+        {
+          "_comment": "ElcanSpecterRMRMount",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 13.0
+        }
+      ]
+    ],
+    "81ee14e532991b2b9993ae0e": [
+      [
+        {
+          "_comment": "ReptiliaRMRRiserLvl1",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 3.0
+        }
+      ]
+    ],
+    "ac738256c846acc25b183a80": [
+      [
+        {
+          "_comment": "ReptiliaRMRRiserLvl2",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 3.0
+        }
+      ]
+    ],
+    "26f02172906cbaa1ae78e57d": [
+      [
+        {
+          "_comment": "ReptiliaRMRRiserLvl3",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 3.0
         }
       ]
     ],
@@ -11927,6 +12970,33 @@
           "_comment": "VortexRazorHDScope",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 458.0
+        }
+      ]
+    ],
+    "69817cd3ee9b6f2ceb000001": [
+      [
+        {
+          "_comment": "NightForceATACR1to8",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 337.0
+        }
+      ]
+    ],
+    "69685e95d7a97cb3f2000001": [
+      [
+        {
+          "_comment": "VortexEleanor1to10BLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 351.0
+        }
+      ]
+    ],
+    "6968615ed7a97cb3f2000004": [
+      [
+        {
+          "_comment": "VortexEleanor1to10FDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 351.0
         }
       ]
     ],
@@ -12335,6 +13405,15 @@
         }
       ]
     ],
+    "6761765f1f08ed5e8800b7a6": [
+      [
+        {
+          "_comment": "BetaCMag100RoundDrum",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 117.0
+        }
+      ]
+    ],
     "6761770e48fa5c377e06fc3c": [
       [
         {
@@ -12605,57 +13684,12 @@
         }
       ]
     ],
-    "692f13c264cb93c0b8f714e0": [
-      [
-        {
-          "_comment": "DD13RIS2UPPRBRN",
-          "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 64.0
-        }
-      ]
-    ],
-    "69346f197138f11531742012": [
-      [
-        {
-          "_comment": "DD9RISIIBLK",
-          "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 64.0
-        }
-      ]
-    ],
-    "69347060f1ac6a487d75753c": [
-      [
-        {
-          "_comment": "DD9LRISIIBLK",
-          "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 26.0
-        }
-      ]
-    ],
     "69346ecfd299e247c77f4fb0": [
       [
         {
-          "_comment": "DD9RISIIBRN",
+          "_comment": "DanielDefenseRISII9inHandguardFDE",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 64.0
-        }
-      ]
-    ],
-    "69346f6e9f8c013a9241c4e8": [
-      [
-        {
-          "_comment": "DD9LRISIIBRN",
-          "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 26.0
-        }
-      ]
-    ],
-    "692f13ecda089471f5395f41": [
-      [
-        {
-          "_comment": "DD13RIS2LWRBRN",
-          "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 26.0
         }
       ]
     ],
@@ -12875,15 +13909,6 @@
         }
       ]
     ],
-    "692f500e88132adf94a9edaa": [
-      [
-        {
-          "_comment": "DD12URIS2BROWN",
-          "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 64.0
-        }
-      ]
-    ],
     "63d3ce281fe77d0f2801859e": [
       [
         {
@@ -12969,6 +13994,33 @@
       [
         {
           "_comment": "DDMLOKVFGV2BRN",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 28.0
+        }
+      ]
+    ],
+    "6a4025c180f5b4c7eae13fe3": [
+      [
+        {
+          "_comment": "BCMGunfighterBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 28.0
+        }
+      ]
+    ],
+    "6a4025c180f5b4c7eae13fe5": [
+      [
+        {
+          "_comment": "BCMGunfighterMLOKBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 28.0
+        }
+      ]
+    ],
+    "6a4025c180f5b4c7eae13fe7": [
+      [
+        {
+          "_comment": "BCMGunfighterMLOKFDE",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 28.0
         }
@@ -13163,19 +14215,55 @@
         }
       ]
     ],
-    "5c9a25172e2216000f20314e": [
+    "6a3ddca5e42d9a25bc7c304d": [
       [
         {
-          "_comment": "DanielDefenseRISII12inHandguard",
+          "_comment": "DanielDefenseRISII12inFSPHandguardFDE",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 35.0
         }
       ]
     ],
-    "638f2003bbd47aeb9e0ff637": [
+    "6a3eac21430b305562267d09": [
       [
         {
-          "_comment": "DanielDefenseRISII12inHandguardLower",
+          "_comment": "DanielDefenseRISII12inHandguardFDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 35.0
+        }
+      ]
+    ],
+    "6a3ddcbc3431105320040d43": [
+      [
+        {
+          "_comment": "DanielDefenseRISII12inHandguardLowerFDE",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 15.0
+        }
+      ]
+    ],
+    "6a3ddcd497710b539d104c22": [
+      [
+        {
+          "_comment": "DanielDefenseRISII12inFSPHandguardBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 35.0
+        }
+      ]
+    ],
+    "6a3ddd4eb8d133609fd93297": [
+      [
+        {
+          "_comment": "DanielDefenseRISII12inHandguardBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 35.0
+        }
+      ]
+    ],
+    "6a3ddd61de848840fc0f6f30": [
+      [
+        {
+          "_comment": "DanielDefenseRISII12inHandguardLowerBLK",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 15.0
         }
@@ -13184,36 +14272,45 @@
     "55f84c3c4bdc2d5f408b4576": [
       [
         {
-          "_comment": "DanielDefenseRISII9inHandguard",
+          "_comment": "DanielDefenseRISII9inHandguardFDE",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 30.0
         }
       ]
     ],
-    "638f1ff84822287cad04be9d": [
+    "6a3dddd44d8fb1c1381861fd": [
       [
         {
-          "_comment": "DanielDefenseRISII9inHandguardLower",
+          "_comment": "DanielDefenseRISII9inHandguardLowerFDE",
           "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 13.0
+          "count": 26.0
         }
       ]
     ],
-    "588b56d02459771481110ae2": [
+    "6a3ebaec0e8879fc1c2e418a": [
       [
         {
-          "_comment": "DanielDefenseRISII9inHandguardBlk",
+          "_comment": "DanielDefenseRISII9inHandguardBLK",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 29.0
         }
       ]
     ],
-    "6396aaa9a52ace83df0840ab": [
+    "6a3dde0364246da45253fb60": [
       [
         {
-          "_comment": "DanielDefenseRISII9inHandguardLowerBlk",
+          "_comment": "DanielDefenseRISII9inFSPHandguardBLK",
           "_tpl": "5696686a4bdc2da3298b456a",
-          "count": 13.0
+          "count": 29.0
+        }
+      ]
+    ],
+    "6a3edb6d2db9db1be6528638": [
+      [
+        {
+          "_comment": "DanielDefenseRISII9inLowerHandguardBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 26.0
         }
       ]
     ],
@@ -13304,6 +14401,24 @@
           "_comment": "KACURX14inHandguard",
           "_tpl": "5696686a4bdc2da3298b456a",
           "count": 131.0
+        }
+      ]
+    ],
+    "6a17976b6252dc8bcb000001": [
+      [
+        {
+          "_comment": "DD7inRailCover",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 2.0
+        }
+      ]
+    ],
+    "68b26fcb9db8d58487000001": [
+      [
+        {
+          "_comment": "KACRISRailCover",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 2.0
         }
       ]
     ],
@@ -14909,6 +16024,42 @@
         }
       ]
     ],
+    "252d9d1d2552909d0a76033c": [
+      [
+        {
+          "_comment": "OpsCoreComtacBLK",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 124.0
+        }
+      ]
+    ],
+    "cd54f04eb7f0410772acbf35": [
+      [
+        {
+          "_comment": "OpsCoreComtacBLKCamo",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 124.0
+        }
+      ]
+    ],
+    "5b6e75274d865619855c447a": [
+      [
+        {
+          "_comment": "OpsCoreComtacTAN",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 124.0
+        }
+      ]
+    ],
+    "7e6c09774462ad3ef5025f08": [
+      [
+        {
+          "_comment": "OpsCoreComtacTANCamo",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 124.0
+        }
+      ]
+    ],
     "5a154d5cfcdbcb001a3b00da": [
       [
         {
@@ -15494,6 +16645,51 @@
         }
       ]
     ],
+    "67600929bd0a0549d70993f6": [
+      [
+        {
+          "_comment": "PlateCase",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 117.0
+        }
+      ]
+    ],
+    "619cbf7d23893217ec30b689": [
+      [
+        {
+          "_comment": "InjectorCase",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 127.0
+        }
+      ]
+    ],
+    "5c0a840b86f7742ffa4f2482": [
+      [
+        {
+          "_comment": "THICCItemsCase",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 2700.0
+        }
+      ]
+    ],
+    "5d235bb686f77443f4331278": [
+      [
+        {
+          "_comment": "SICCCase",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 370.0
+        }
+      ]
+    ],
+    "5c093e3486f77430cb02e593": [
+      [
+        {
+          "_comment": "DogTagCase",
+          "_tpl": "5696686a4bdc2da3298b456a",
+          "count": 145.0
+        }
+      ]
+    ],
     "6357c98711fb55120211f7e1": [
       [
         {
@@ -15522,6 +16718,7 @@
     "6934879eea433a4e0449dd98": 1,
     "693491b0af718d69bc6a27a0": 1,
     "69349a4b99595a18dc43a107": 1,
+    "6a404058e0453f59d430171d": 1,
     "cd97339d6bfa982e1539bb3d": 1,
     "cd97339d6bfa982e1539bb5d": 1,
     "cd97339d6bfa982e1539bb4d": 1,
@@ -15551,6 +16748,9 @@
     "651a8e529829226ceb67c319": 1,
     "692f0cc3192ad3dee0f23f56": 1,
     "692f0ce96d1fa8fa6b93cbbb": 1,
+    "6a4025c180f5b4c7eae13fe3": 1,
+    "6a4025c180f5b4c7eae13fe5": 1,
+    "6a4025c180f5b4c7eae13fe7": 1,
     "6934860237824f28385cc896": 1,
     "693486608bbace60fef75024": 1,
     "651bf5617b3b552ef6712cb7": 1,
@@ -15567,16 +16767,11 @@
     "692f11edb6d395bb4e5f3cab": 1,
     "692f126da5c432b34de59538": 1,
     "692f124790fa1dc18a307015": 1,
-    "692f500e88132adf94a9edaa": 1,
     "692f125cca796f4235b8dd26": 1,
     "63d3ce281fe77d0f2801859e": 1,
     "692f17343b5039eaa5b99fe3": 1,
-    "692f13c264cb93c0b8f714e0": 1,
-    "69346f197138f11531742012": 1,
-    "69347060f1ac6a487d75753c": 1,
     "69346ecfd299e247c77f4fb0": 1,
-    "69346f6e9f8c013a9241c4e8": 1,
-    "692f13ecda089471f5395f41": 1,
+    "6a3dddd44d8fb1c1381861fd": 1,
     "692f0fe8ee16deb0969af268": 1,
     "692f0fdaf920d677ad4cc23a": 1,
     "692f1ed5655ff022422004ee": 1,
@@ -15608,12 +16803,16 @@
     "6065dc8a132d4d12c81fd8e3": 1,
     "5c78f2492e221600114c9f04": 1,
     "5b2cfa535acfc432ff4db7a0": 1,
-    "5c9a25172e2216000f20314e": 1,
-    "638f2003bbd47aeb9e0ff637": 1,
+    "6a3ddca5e42d9a25bc7c304d": 1,
+    "6a3eac21430b305562267d09": 1,
+    "6a3ddcd497710b539d104c22": 1,
+    "6a3ddd4eb8d133609fd93297": 1,
+    "6a3ddd61de848840fc0f6f30": 1,
+    "6a3ddcbc3431105320040d43": 1,
     "55f84c3c4bdc2d5f408b4576": 1,
-    "638f1ff84822287cad04be9d": 1,
-    "588b56d02459771481110ae2": 1,
-    "6396aaa9a52ace83df0840ab": 1,
+    "6a3ebaec0e8879fc1c2e418a": 1,
+    "6a3dde0364246da45253fb60": 1,
+    "6a3edb6d2db9db1be6528638": 1,
     "640b20359ab20e15ee445fa9": 1,
     "619b5db699fb192e7430664f": 1,
     "5d122e7bd7ad1a07102d6d7f": 1,
@@ -15624,6 +16823,8 @@
     "5d124c1ad7ad1a12227c53a7": 1,
     "5d133067d7ad1a33013f95b4": 1,
     "5df916dfbb49d91fb446d6b9": 1,
+    "6a17976b6252dc8bcb000001": 1,
+    "68b26fcb9db8d58487000001": 1,
     "5f6336bbda967c74a42e9932": 1,
     "5a329052c4a28200741e22d3": 1,
     "5ea16ada09aa976f2e7a51be": 1,
@@ -15768,11 +16969,24 @@
     "692f1671a0f275b59f779502": 1,
     "692f16819b9f0f72db2d02e3": 1,
     "63ac5c9658d0485fc039f0b8": 1,
+    "c544b1b34703aebab8ee0e5c": 1,
     "5ab8f39486f7745cd93a1cca": 1,
+    "67a9dcbac185de5a4d0c2a06": 1,
+    "67a9dc769de6826a650ee066": 1,
+    "67a9dd619de6826a650ee06c": 1,
+    "67a9dce47faa4210bb0807c8": 1,
+    "67a9dccf9de6826a650ee06a": 1,
+    "67a9dca99de6826a650ee068": 1,
     "0e79506f65e8c04c872ee346": 1,
     "5af0454c86f7746bf20992e8": 1,
     "5d02797c86f774203f38e30a": 1,
+    "544fb3f34bdc2d03748b456a": 1,
     "5c0e530286f7747fa1419862": 1,
+    "637b620db7afa97bfc3d7009": 1,
+    "5c0e531286f7747fa54205c2": 1,
+    "5c10c8fd86f7743d7d706df3": 1,
+    "5ed5166ad380ab312177c100": 1,
+    "637b60c3b7afa97bfc3d7001": 1,
     "5c0e531d86f7747fa23f4d42": 1,
     "637b612fb7afa97bfc3d7005": 1,
     "5ed51652f6c34d2cc26336a1": 1,
@@ -15788,6 +17002,8 @@
     "5e00cdd986f7747473332240": 1,
     "5e01f37686f774773c6f6c15": 1,
     "5c0e66e2d174af02a96252f4": 1,
+    "591094e086f7747caa7bb2ef": 1,
+    "5910968f86f77425cf569c32": 1,
     "5ea058e01dbce517f324b3e2": 1,
     "6570aead4d84f81fd002a033": 1,
     "657089638db3adca1009f4ca": 1,
@@ -15805,6 +17021,9 @@
     "656fae5f7c2d57afe200c0d7": 1,
     "655746010177119f4a097ff7": 1,
     "6557458f83942d705f0c4962": 1,
+    "b5223cb4b895fb6a438ac533": 1,
+    "cf2ab73b0f0c00a0df3852e4": 1,
+    "58c0a16f420c97fe1c3d2e27": 1,
     "67673ceff12650416c0313f3": 1,
     "67673ceaf12650416c0313ed": 1,
     "67673cedf12650416c0313f0": 1,
@@ -15820,6 +17039,10 @@
     "66b5f6985891c84aab75ca76": 1,
     "66b5f69ea7f72d197e70bcdb": 1,
     "66b5f6a28ca68c6461709ed8": 1,
+    "252d9d1d2552909d0a76033c": 1,
+    "cd54f04eb7f0410772acbf35": 1,
+    "5b6e75274d865619855c447a": 1,
+    "7e6c09774462ad3ef5025f08": 1,
     "5a154d5cfcdbcb001a3b00da": 1,
     "5ac8d6885acfc400180ae7b0": 1,
     "6765f89bb021994124032767": 1,
@@ -15841,6 +17064,7 @@
     "5d1340b3d7ad1a0b52682ed7": 1,
     "59c1383d86f774290a37e0ca": 1,
     "544a37c44bdc2d25388b4567": 1,
+    "6761765f1f08ed5e8800b7a6": 1,
     "6761770e48fa5c377e06fc3c": 1,
     "5ba26586d4351e44f824b340": 1,
     "618168dc8004cc50514c34fc": 1,
@@ -15852,6 +17076,18 @@
     "618ba91477b82356f91ae0e8": 1,
     "618b9682a3884f56c957ca78": 1,
     "618ba92152ecee1505530bd3": 1,
+    "b2d57758abe9bb9345c58e4a": 1,
+    "67ea8b32e0d7701fc6bfc5bf": 1,
+    "e4f2fd43b5613348b6e25bb5": 1,
+    "2437ee507945dfe829ddf298": 1,
+    "ee8d5029626f7ba2e1510676": 1,
+    "959b54e7798be68a1a54ff81": 1,
+    "d4424e8a8d6e6789adbfcde2": 1,
+    "42aac757e1ac8161f6ec6766": 1,
+    "eeb62fba336b644c26813276": 1,
+    "81ee14e532991b2b9993ae0e": 1,
+    "ac738256c846acc25b183a80": 1,
+    "26f02172906cbaa1ae78e57d": 1,
     "5b3b99265acfc4704b4a1afb": 1,
     "57ac965c24597706be5f975c": 1,
     "57aca93d2459771f2c7e26db": 1,
@@ -15896,6 +17132,9 @@
     "5c05295e0db834001a66acbb": 1,
     "6478641c19d732620e045e17": 1,
     "618ba27d9008e4636a67f61d": 1,
+    "69817cd3ee9b6f2ceb000001": 1,
+    "69685e95d7a97cb3f2000001": 1,
+    "6968615ed7a97cb3f2000004": 1,
     "5b3b99475acfc432ff4dcbee": 1,
     "5b057b4f5acfc4771e1bd3e9": 1,
     "655df24fdf80b12750626d0a": 1,
@@ -16017,6 +17256,11 @@
     "590c657e86f77412b013051d": 1,
     "60098af40accd37ef2175f27": 1,
     "5e2af55f86f7746d4159f07c": 1,
+    "67600929bd0a0549d70993f6": 1,
+    "619cbf7d23893217ec30b689": 1,
+    "5c0a840b86f7742ffa4f2482": 1,
+    "5d235bb686f77443f4331278": 1,
+    "5c093e3486f77430cb02e593": 1,
     "6357c98711fb55120211f7e1": 1,
     "5aafbde786f774389d0cbc0f": 1,
     "5c127c4486f7745625356c13": 1,
