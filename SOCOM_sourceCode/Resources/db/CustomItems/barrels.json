@@ -13,6 +13,8 @@
       "Recoil": -7,
       "Velocity": 4,
       "Accuracy": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -173,6 +175,8 @@
       "Recoil": -6,
       "Velocity": 3,
       "Accuracy": 11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -329,10 +333,12 @@
         "path": "assets/content/items/mods/barrels/barrel_ar15_ba_hanson_carbine_pro_348mm.bundle",
         "rcid": ""
       },
-      "Ergonomics": -8,
+      "Ergonomics": -7,
       "Recoil": -6,
       "Velocity": 3,
       "Accuracy": 10,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -493,6 +499,8 @@
       "Recoil": -18,
       "Velocity": 5,
       "Accuracy": 13,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -653,6 +661,8 @@
       "Recoil": -9,
       "Velocity": 6,
       "Accuracy": 14,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -809,10 +819,12 @@
         "path": "mods/ar15_barrels/ar15_11_5.bundle",
         "rcid": ""
       },
-      "Ergonomics": -12,
+      "Ergonomics": -6,
       "Recoil": -5,
       "Velocity": 2,
       "Accuracy": 10,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -969,10 +981,12 @@
         "path": "assets/content/items/mods/barrels/barrel_ar15_260mm.bundle",
         "rcid": ""
       },
-      "Ergonomics": -13,
+      "Ergonomics": -5,
       "Recoil": -4,
       "Velocity": 2,
       "Accuracy": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],
@@ -1129,10 +1143,12 @@
         "path": "mods/ar15_barrels/ar15_8_5.bundle",
         "rcid": ""
       },
-      "Ergonomics": -14,
+      "Ergonomics": -3,
       "Recoil": -3,
       "Velocity": 1,
       "Accuracy": 11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "ConflictingItems": [
       ],

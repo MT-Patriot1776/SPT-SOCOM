@@ -6,6 +6,8 @@
     "overrideProperties": {
       "DurabilityBurnModificator": 0.97,
       "BackgroundColor": "violet",
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "Recoil": -12,
       "Ergonomics": -1,
       "Weight": 0.11,
@@ -100,6 +102,8 @@
       "Recoil": -12,
       "Ergonomics": -1,
       "Weight": 0.11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "Accuracy": 5,
       "BackgroundColor": "violet",
       "DurabilityBurnModificator": 1
@@ -166,6 +170,8 @@
       "Ergonomics": -1,
       "Weight": 0.11,
       "Accuracy": 5,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "BackgroundColor": "violet",
       "DurabilityBurnModificator": 1
     },

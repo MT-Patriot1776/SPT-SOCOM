@@ -9,7 +9,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_13l_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_13l_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -125,7 +125,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_13l_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_13l_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -241,7 +241,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_13l_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_13l_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -357,7 +357,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_12_5l_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_12_5l_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -473,7 +473,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_12_5l_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_12_5l_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -589,7 +589,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_12_5l_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_12_5l_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -705,7 +705,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_13u_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_13u_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -934,7 +934,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_13u_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_13u_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -1163,7 +1163,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_13u_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_13u_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -1392,7 +1392,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_12_5u_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_12_5u_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -1606,7 +1606,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_12_5u_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_12_5u_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -1820,7 +1820,7 @@
       "Recoil": -8,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_12_5u_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_12_5u_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2032,7 +2032,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_10_5l_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_10_5l_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2146,7 +2146,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_10_5l_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_10_5l_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2260,7 +2260,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_10_5l_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_10_5l_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2374,7 +2374,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_9_5l_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_9_5l_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2488,7 +2488,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_9_5l_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_9_5l_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2602,7 +2602,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_9_5l_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_9_5l_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2716,7 +2716,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_10_5u_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_10_5u_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -2934,7 +2934,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_10_5u_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_10_5u_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -3152,7 +3152,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_10_5u_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_10_5u_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -3370,7 +3370,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_9_5u_fde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_9_5u_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -3586,7 +3586,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_9_5u_dfde.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_9_5u_dfde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
@@ -3802,7 +3802,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/ris_iii_9_5u_blk.bundle",
+        "path": "mods/ar15_handguards/dd_risiii_handguards/ris_iii_9_5u_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [

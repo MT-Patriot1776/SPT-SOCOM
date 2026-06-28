@@ -7,7 +7,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr13_5_blk.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr13_5_blk.bundle",
         "rcid": ""
       },
       "CanSellOnRagfair": true,
@@ -68,7 +68,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr13_5_cbt.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr13_5_cbt.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -315,7 +315,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr13_5_dw.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr13_5_dw.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -562,7 +562,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr13_5_fde.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr13_5_fde.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -809,7 +809,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr15_blk.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr15_blk.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -1056,7 +1056,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr15_cbt.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr15_cbt.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -1303,7 +1303,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr15_dw.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr15_dw.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -1550,7 +1550,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr15_fde.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr15_fde.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -1798,7 +1798,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr9_blk.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr9_blk.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -2046,7 +2046,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr9_cbt.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr9_cbt.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -2294,7 +2294,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr9_dw.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr9_dw.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -2542,7 +2542,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr9_fde.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr9_fde.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -2790,7 +2790,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr10_blk.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr10_blk.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -3040,7 +3040,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr10_cbt.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr10_cbt.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -3290,7 +3290,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr10_dw.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr10_dw.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -3540,7 +3540,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Prefab": {
-        "path": "mods/ar15_handguards/mfr10_fde.bundle",
+        "path": "mods/ar15_handguards/dd_mfr_handguards/mfr10_fde.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,

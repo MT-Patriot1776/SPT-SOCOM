@@ -6,6 +6,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -89,6 +91,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+	  "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -172,6 +176,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+   	  "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -255,6 +261,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -338,6 +346,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -421,6 +431,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -504,6 +516,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -587,6 +601,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -670,6 +686,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -753,6 +771,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -836,6 +856,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -919,6 +941,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -1002,6 +1026,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -1085,6 +1111,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -1168,6 +1196,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -1251,6 +1281,8 @@
     "overrideProperties": {
       "BackgroundColor": "violet",
       "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
@@ -1336,12 +1368,12 @@
         "path": "assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
         "rcid": ""
       },
-      "Ergonomics": 12,
-      "CoolFactor": 1.01,
-      "HeatFactor": 0.876,
+      "Ergonomics": 14,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
       "Recoil": -5,
-      "DurabilityBurnModificator": 0.966,
-      "Weight": 0.44
+      "DurabilityBurnModificator": 0.5,
+      "Weight": 0.4
     },
     "locales": {
       "en": {

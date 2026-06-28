@@ -1,4 +1,208 @@
 {
+  "6a4025c180f5b4c7eae13fe3": {
+    "itemTplToClone": "5c7fc87d2e221644f31c0298",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GUNFIGHTER MOD 3 vertical foregrip",
+        "shortName": "GF MOD3",
+        "description": "A lightweight polymer tactical grip manufactured by BCM."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 40
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a4025c180f5b4c7eae13fe5": {
+    "itemTplToClone": "665d5d9e338229cfd6078da1",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GUNFIGHTER MOD 3 M-LOK foregrip (Black)",
+        "shortName": "GF MLOK",
+        "description": "A lightweight polymer tactical foregrip. Mounted on handguards with M-LOK interface. Manufactured by Bravo Company Manufacturing. Black color version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 40
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a4025c180f5b4c7eae13fe7": {
+    "itemTplToClone": "665edce564fb556f940ab32a",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GUNFIGHTER MOD 3 M-LOK foregrip (FDE)",
+        "shortName": "GF MLOK",
+        "description": "A lightweight polymer tactical foregrip. Mounted on handguards with M-LOK interface. Manufactured by Bravo Company Manufacturing. Flat Dark Earth version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 40
+      }
+    ],
+    "addtoTraders": false
+  },
   "692f0cc3192ad3dee0f23f56": {
     "itemTplToClone": "651a8bf3a8520e48047bf708",
     "parentId": "55818af64bdc2d5b648b4570",
