@@ -13,11 +13,12 @@ public record ModMetadata : AbstractModMetadata
     public override string Author { get; init; } = "MT_Militia";
     public override List<string>? Contributors { get; init; } = ["Srispt,EpicRangeTime"];
     public override SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
-    public override Range SptVersion { get; init; } = new("~4.0.0");
+    public override Range SptVersion { get; init; } = new("~4.0.13");
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.0") }
+        { "com.wtt.commonlib", new Range("~2.0.20") },
+        { "com.epicrangetime.aio", new Range("~4.0.8") }
     };
     public override string? Url { get; init; } = "https://github.com/MT-Patriot1776/SPT-SOCOM";
     public override bool? IsBundleMod { get; init; } = true;

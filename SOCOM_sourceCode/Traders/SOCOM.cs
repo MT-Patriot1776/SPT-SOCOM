@@ -12,7 +12,7 @@ using SOCOM.Utilities;
 
 namespace SOCOM.Traders;
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 1)]
+[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]
 public class SOCOM(
     ModHelper modHelper,
     ImageRouter imageRouter,
