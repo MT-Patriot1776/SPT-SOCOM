@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\4.0.x\\Traders\\SOCOM\\2.0.1.c\\SOCOM\\SOCOM.csproj": {}
+    "C:\\Users\\sadams\\Downloads\\SPT-SOCOM-main\\SPT-SOCOM-main\\SOCOM_sourceCode\\SOCOM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\4.0.x\\Traders\\SOCOM\\2.0.1.c\\SOCOM\\SOCOM.csproj": {
+    "C:\\Users\\sadams\\Downloads\\SPT-SOCOM-main\\SPT-SOCOM-main\\SOCOM_sourceCode\\SOCOM.csproj": {
       "version": "2.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\4.0.x\\Traders\\SOCOM\\2.0.1.c\\SOCOM\\SOCOM.csproj",
+        "projectUniqueName": "C:\\Users\\sadams\\Downloads\\SPT-SOCOM-main\\SPT-SOCOM-main\\SOCOM_sourceCode\\SOCOM.csproj",
         "projectName": "SOCOM",
-        "projectPath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\4.0.x\\Traders\\SOCOM\\2.0.1.c\\SOCOM\\SOCOM.csproj",
+        "projectPath": "C:\\Users\\sadams\\Downloads\\SPT-SOCOM-main\\SPT-SOCOM-main\\SOCOM_sourceCode\\SOCOM.csproj",
         "packagesPath": "C:\\Users\\sadams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\4.0.x\\Traders\\SOCOM\\2.0.1.c\\SOCOM\\obj\\",
+        "outputPath": "C:\\Users\\sadams\\Downloads\\SPT-SOCOM-main\\SPT-SOCOM-main\\SOCOM_sourceCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sadams\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sadams\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -25,6 +24,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -39,27 +39,28 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "SPTarkov.Common": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[4.0.13, )"
             },
             "SPTarkov.DI": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[4.0.13, )"
             },
             "SPTarkov.Server.Core": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[4.0.13, )"
             },
             "WTT-ServerCommonLib": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.0.20, )"
             }
           },
           "imports": [
@@ -73,6 +74,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -81,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
