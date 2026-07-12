@@ -484,7 +484,7 @@
         "path": "mods/pistol_grips/dd_pistol_grip_black.bundle",
         "rcid": ""
       },
-      "Weight": 0.09,
+      "Weight": 0.04,
       "BackgroundColor": "violet",
       "Ergonomics": 11
     },
@@ -564,7 +564,7 @@
         "path": "mods/pistol_grips/dd_pistol_grip_gray.bundle",
         "rcid": ""
       },
-      "Weight": 0.09,
+      "Weight": 0.04,
       "BackgroundColor": "violet",
       "Ergonomics": 11
     },
@@ -644,7 +644,7 @@
         "path": "mods/pistol_grips/dd_pistol_grip_tan.bundle",
         "rcid": ""
       },
-      "Weight": 0.09,
+      "Weight": 0.04,
       "BackgroundColor": "violet",
       "Ergonomics": 11
     },
@@ -724,7 +724,7 @@
         "path": "mods/pistol_grips/dd_pistol_grip_brown.bundle",
         "rcid": ""
       },
-      "Weight": 0.09,
+      "Weight": 0.04,
       "BackgroundColor": "violet",
       "Ergonomics": 11
     },
@@ -781,6 +781,224 @@
       {
         "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
         "probability": 900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a52c6d92a57af04da8f631c": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "PISTOLGRIP",
+    "handbookParentId": "MOD_PISTOLGRIP",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/pistol_grips/b5_pgrip.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 B5 Systems Type 22 Pistol Grip",
+        "shortName": "Type 22",
+        "description": "The B5 Systems Type 22 P-Grip offers an increased vertical grip angle to improve ergonomics and ensure proper trigger index. The lack of a backstrap places the hand higher on the grip for maximum engagement."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 3000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 340
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 300
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 760
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 400
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 850
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1500
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 1000
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a52c7d21cedf6d98cb801dd": {
+    "itemTplToClone": "5c6d7b3d2e221600114c9b7d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/pistol_grips/bcm_mod3_pgrip_blk.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 BCM Mod 3 pistol grip (Black)",
+        "shortName": "Mod 3",
+        "description": "The BCM Mod 3 pistol grip is an ergonomic AR-15 grip with a reduced angle designed for modern, squared-off shooting stances. It features improved texturing, a beavertail backstrap, and internal storage, offering better control and comfort than the standard A2 grip."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 7600,
+    "handbookPriceRoubles": 3400,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a52c816565b84f3499f1494": {
+    "itemTplToClone": "5c6d7b3d2e221600114c9b7d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/pistol_grips/bcm_mod3_pgrip_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 BCM Mod 3 pistol grip (FDE)",
+        "shortName": "Mod 3",
+        "description": "The BCM Mod 3 pistol grip is an ergonomic AR-15 grip with a reduced angle designed for modern, squared-off shooting stances. It features improved texturing, a beavertail backstrap, and internal storage, offering better control and comfort than the standard A2 grip."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 7600,
+    "handbookPriceRoubles": 3400,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
       }
     ],
     "masteries": false,

@@ -1,0 +1,346 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SOCOM/2.0.2": {
+        "dependencies": {
+          "SPTarkov.Common": "4.0.13",
+          "SPTarkov.DI": "4.0.13",
+          "SPTarkov.Server.Core": "4.0.13",
+          "WTT-ServerCommonLib": "2.0.20"
+        },
+        "runtime": {
+          "SOCOM.dll": {}
+        }
+      },
+      "FastCloner/3.3.16": {
+        "runtime": {
+          "lib/net8.0/FastCloner.dll": {
+            "assemblyVersion": "3.3.16.0",
+            "fileVersion": "3.3.16.0"
+          }
+        }
+      },
+      "HarmonyX/2.15.0": {
+        "dependencies": {
+          "MonoMod.RuntimeDetour": "25.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/0Harmony.dll": {
+            "assemblyVersion": "2.15.0.0",
+            "fileVersion": "2.15.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2025.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2025.2.2.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.9": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.925.41916"
+          }
+        }
+      },
+      "Mono.Cecil/0.11.6": {
+        "runtime": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "assemblyVersion": "0.11.6.0",
+            "fileVersion": "0.11.6.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "assemblyVersion": "0.11.6.0",
+            "fileVersion": "0.11.6.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "assemblyVersion": "0.11.6.0",
+            "fileVersion": "0.11.6.0"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "assemblyVersion": "0.11.6.0",
+            "fileVersion": "0.11.6.0"
+          }
+        }
+      },
+      "MonoMod.Backports/1.1.2": {
+        "dependencies": {
+          "MonoMod.ILHelpers": "1.1.0"
+        },
+        "runtime": {
+          "lib/net8.0/MonoMod.Backports.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        }
+      },
+      "MonoMod.Core/1.3.0": {
+        "dependencies": {
+          "Mono.Cecil": "0.11.6",
+          "MonoMod.Backports": "1.1.2",
+          "MonoMod.ILHelpers": "1.1.0",
+          "MonoMod.Utils": "25.0.8"
+        },
+        "runtime": {
+          "lib/net9.0/MonoMod.Core.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          },
+          "lib/net9.0/MonoMod.Iced.dll": {
+            "assemblyVersion": "1.21.0.0",
+            "fileVersion": "1.21.0.0"
+          }
+        }
+      },
+      "MonoMod.ILHelpers/1.1.0": {
+        "runtime": {
+          "lib/net8.0/MonoMod.ILHelpers.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MonoMod.RuntimeDetour/25.3.0": {
+        "dependencies": {
+          "Mono.Cecil": "0.11.6",
+          "MonoMod.Backports": "1.1.2",
+          "MonoMod.Core": "1.3.0",
+          "MonoMod.ILHelpers": "1.1.0",
+          "MonoMod.Utils": "25.0.8"
+        },
+        "runtime": {
+          "lib/net9.0/MonoMod.RuntimeDetour.dll": {
+            "assemblyVersion": "25.3.0.0",
+            "fileVersion": "25.3.0.0"
+          }
+        }
+      },
+      "MonoMod.Utils/25.0.8": {
+        "dependencies": {
+          "Mono.Cecil": "0.11.6",
+          "MonoMod.Backports": "1.1.2",
+          "MonoMod.ILHelpers": "1.1.0"
+        },
+        "runtime": {
+          "lib/net9.0/MonoMod.Utils.dll": {
+            "assemblyVersion": "25.0.8.0",
+            "fileVersion": "25.0.8.0"
+          }
+        }
+      },
+      "SemanticVersioning/3.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SemanticVersioning.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "SPTarkov.Common/4.0.13": {
+        "dependencies": {
+          "SemanticVersioning": "3.0.0"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.Common.dll": {
+            "assemblyVersion": "4.0.13.0",
+            "fileVersion": "4.0.13.0"
+          }
+        }
+      },
+      "SPTarkov.DI/4.0.13": {
+        "dependencies": {
+          "JetBrains.Annotations": "2025.2.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.9"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.DI.dll": {
+            "assemblyVersion": "4.0.13.0",
+            "fileVersion": "4.0.13.0"
+          }
+        }
+      },
+      "SPTarkov.Reflection/4.0.13": {
+        "dependencies": {
+          "HarmonyX": "2.15.0",
+          "JetBrains.Annotations": "2025.2.2",
+          "SPTarkov.DI": "4.0.13"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.Reflection.dll": {
+            "assemblyVersion": "4.0.13.0",
+            "fileVersion": "4.0.13.0"
+          }
+        }
+      },
+      "SPTarkov.Server.Core/4.0.13": {
+        "dependencies": {
+          "FastCloner": "3.3.16",
+          "SPTarkov.Common": "4.0.13",
+          "SPTarkov.DI": "4.0.13",
+          "System.IO.Hashing": "9.0.9"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.Server.Core.dll": {
+            "assemblyVersion": "4.0.13.0",
+            "fileVersion": "4.0.13.0"
+          }
+        }
+      },
+      "System.IO.Hashing/9.0.9": {
+        "runtime": {
+          "lib/net9.0/System.IO.Hashing.dll": {
+            "assemblyVersion": "9.0.0.9",
+            "fileVersion": "9.0.925.41916"
+          }
+        }
+      },
+      "WTT-ServerCommonLib/2.0.20": {
+        "dependencies": {
+          "SPTarkov.Reflection": "4.0.13",
+          "SPTarkov.Server.Core": "4.0.13"
+        },
+        "runtime": {
+          "lib/net9.0/WTT-ServerCommonLib.dll": {
+            "assemblyVersion": "2.0.20.0",
+            "fileVersion": "2.0.20.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOCOM/2.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastCloner/3.3.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3469qHsau6KXmOnLSR7DvvId+NwXuXKAvtDoJVJMDpRRaHLT7DU8IY2G4osMAbXyUfrlbrmXGI5HrlMwQUUjow==",
+      "path": "fastcloner/3.3.16",
+      "hashPath": "fastcloner.3.3.16.nupkg.sha512"
+    },
+    "HarmonyX/2.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k5fD4/k6s/A/llzr4KE6CZWxgf2BQH5yDb1OIKBpjy6IGX6knt0gCx8NZHg3B97aTI4+oRJVIubD8cTT53lC+Q==",
+      "path": "harmonyx/2.15.0",
+      "hashPath": "harmonyx.2.15.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2025.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0X56ZRizuHdrnPpgXjWV7f2tQO1FlQg5O1967OGKnI/4ZRNOK642J8L7brM1nYvrxTTU5TP1yRyXLRLaXLPQ8A==",
+      "path": "jetbrains.annotations/2025.2.2",
+      "hashPath": "jetbrains.annotations.2025.2.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/hymojfWbE9AlDOa0mczR44m00Jj+T3+HZO0ZnVTI032fVycI0ZbNOVFP6kqZMcXiLSYXzR2ilcwaRi6dzeGyA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.9",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+    },
+    "Mono.Cecil/0.11.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f33RkDtZO8VlGXCtmQIviOtxgnUdym9xx/b1p9h91CRGOsJFxCFOFK1FDbVt1OCf1aWwYejUFa2MOQyFWTFjbA==",
+      "path": "mono.cecil/0.11.6",
+      "hashPath": "mono.cecil.0.11.6.nupkg.sha512"
+    },
+    "MonoMod.Backports/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-baYlNy8n8kmaNhNvqmZ/dIPOeO1r9//dG1i2WbunMWtWZ2EKtIgmXaS+ZzphzTsikkGnoD4Jwr5g0TVdpDjgpw==",
+      "path": "monomod.backports/1.1.2",
+      "hashPath": "monomod.backports.1.1.2.nupkg.sha512"
+    },
+    "MonoMod.Core/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cTWgpZXSJo+4GKSxjx97/96DYZRiGGS7KGK5Rquyn2qkSmbvfuoTW0P46LNzvrhE9bD7xZtnk89yWFEQLwprJg==",
+      "path": "monomod.core/1.3.0",
+      "hashPath": "monomod.core.1.3.0.nupkg.sha512"
+    },
+    "MonoMod.ILHelpers/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L2FWjhTrv7tcIxshfZ+M3OcaNr4cNw0IwiVZEgwqRnZ5QAN3+RrNJ8ZwCzwXUWyPDqooJxMcjjg8PsSYUiNBjQ==",
+      "path": "monomod.ilhelpers/1.1.0",
+      "hashPath": "monomod.ilhelpers.1.1.0.nupkg.sha512"
+    },
+    "MonoMod.RuntimeDetour/25.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FdT1xWHpk5u0Fbq/v857MG16pI/BII+IJx9JqqTKXdJkey1ysXCK7wgPaFWwWO4I0q4Eg8rIhgZJXuCMt5YWAg==",
+      "path": "monomod.runtimedetour/25.3.0",
+      "hashPath": "monomod.runtimedetour.25.3.0.nupkg.sha512"
+    },
+    "MonoMod.Utils/25.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8wfyawgvGqUvfchAj7/gPazAjXO8CWNyXH+C0az+hgJH/80zVL5LxDhQMz0NQTyoCEJWU6gNBGc7CL+G7vCbaQ==",
+      "path": "monomod.utils/25.0.8",
+      "hashPath": "monomod.utils.25.0.8.nupkg.sha512"
+    },
+    "SemanticVersioning/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RR+8GbPQ/gjDqov/1QN1OPoUlbUruNwcL3WjWCeLw+MY7+od/ENhnkYxCfAC6rQLIu3QifaJt3kPYyP3RumqMQ==",
+      "path": "semanticversioning/3.0.0",
+      "hashPath": "semanticversioning.3.0.0.nupkg.sha512"
+    },
+    "SPTarkov.Common/4.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jlTE8OsQXpZJUYeGFcKI75MISG0o8DDURhgvuJX4oqMVSWTsYFdH8svR8aO9vJrR9l1JcvFv8igSGF8kgisYqA==",
+      "path": "sptarkov.common/4.0.13",
+      "hashPath": "sptarkov.common.4.0.13.nupkg.sha512"
+    },
+    "SPTarkov.DI/4.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mV5A4lgUFmIx+0NIIksEcQnK1mHtvBScArbQPpguzkBf3tr+dd3bL046xn4tf/eFGiBBUqm/NTuOsrhrVfbQ7w==",
+      "path": "sptarkov.di/4.0.13",
+      "hashPath": "sptarkov.di.4.0.13.nupkg.sha512"
+    },
+    "SPTarkov.Reflection/4.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DN1ohI9sZRLvHXBK6L9Sw0HiqDmvfXt3k/BOESBY9mLsBNZ4Ck3SJ7EguK43LQp6FLC3FNMG5pmFQ4K2lQZB/w==",
+      "path": "sptarkov.reflection/4.0.13",
+      "hashPath": "sptarkov.reflection.4.0.13.nupkg.sha512"
+    },
+    "SPTarkov.Server.Core/4.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UyChgcUgaW4mjHwlUk5ZdMFSnZsH7w4789EEGM8R2LP01/Bhdidbqcn5fr1Dkkc/HGw+KFBGPgEm3Y0psqGYEQ==",
+      "path": "sptarkov.server.core/4.0.13",
+      "hashPath": "sptarkov.server.core.4.0.13.nupkg.sha512"
+    },
+    "System.IO.Hashing/9.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hcGHdlcKtox37LQZBLYJ3GdTlHx16F5tL96Rt8iaFscCAJW9IZt3asQbyuJMjcM9oyrn3Yh2454VY2fU0d/stw==",
+      "path": "system.io.hashing/9.0.9",
+      "hashPath": "system.io.hashing.9.0.9.nupkg.sha512"
+    },
+    "WTT-ServerCommonLib/2.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/62LSJUx2cyKkVRdXGQQjTOuvza6ur9hDpMRfpFIOcsaaCjZ21doDVnLw6LbfJykaXiG/akQP3Q8xJRuEF9JCQ==",
+      "path": "wtt-servercommonlib/2.0.20",
+      "hashPath": "wtt-servercommonlib.2.0.20.nupkg.sha512"
+    }
+  }
+}

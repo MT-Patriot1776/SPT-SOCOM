@@ -1145,7 +1145,7 @@
       },
       "Ergonomics": -3,
       "Recoil": -3,
-      "Velocity": 1,
+      "Velocity": 2,
       "Accuracy": 11,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
@@ -1263,6 +1263,1427 @@
     "fleaPriceRoubles": 29900,
     "handbookPriceRoubles": 27000,
     "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a5286b5a80cfb3a92dd52b8": {
+    "itemTplToClone": "55d35ee94bdc2d61338b4568",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/ar15_barrels/ar15_8_5.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -3,
+      "Recoil": -3,
+      "Velocity": -1,
+      "Accuracy": 11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5447a9cd4bdc2dbd208b4567",
+        "5d43021ca4b9362eab4b5e25",
+        "5c07c60e0db834002330051f",
+        "5c0e2f5cd174af02a012cfc9",
+        "619b5db699fb192e7430664f",
+        "5b2cfa535acfc432ff4db7a0",
+        "5ae30db85acfc408fb139a05",
+        "5c9a25172e2216000f20314e",
+        "55f84c3c4bdc2d5f408b4576",
+        "588b56d02459771481110ae2",
+        "5c9a26332e2216001219ea70",
+        "5ea16ada09aa976f2e7a51be",
+        "5ea16acdfadf1d18c87b0784",
+        "55d459824bdc2d892f8b4573",
+        "5d122e7bd7ad1a07102d6d7f",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "5c78f2792e221600106f4683",
+        "5c78f26f2e221601da3581d1",
+        "5c78f2492e221600114c9f04",
+        "5c78f2612e221600114c9f0d",
+        "6034e3e20ddce744014cb878",
+        "6034e3d953a60014f970617b",
+        "6034e3cb0ddce744014cb870",
+        "5c6d5d8b2e221644fc630b39",
+        "5d00e0cbd7ad1a6c6566a42d",
+        "5d00f63bd7ad1a59283b1c1e",
+        "6087e0336d0bd7580617bb7a",
+        "595cfa8b86f77427437e845b",
+        "595cf16b86f77427440c32e2",
+        "63888bbd28e5cc32cc09d2b6",
+        "640b20359ab20e15ee445fa9",
+        "59e6920f86f77411d82aa167",
+        "59e6927d86f77411da468256",
+        "54527a984bdc2d4e668b4567",
+        "54527ac44bdc2d36668b4567",
+        "59e68f6f86f7746c9f75e846",
+        "59e6906286f7746c9f75e847",
+        "59e690b686f7746c9f75e848",
+        "59e6918f86f7746c9f75e849",
+        "60194943740c5d77f6705eea",
+        "601949593ae8f707c4608daa",
+        "5c0d5ae286f7741e46554302",
+        "647de824196bf69818044c93",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "03ec0d8b1b6bfd2ee855c007",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a5286b5a80cfb3a92dd52b8",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "b776efc4319458568f120b02",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a5286b5a80cfb3a92dd52b8",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 8.5 inch barrel",
+        "shortName": "DDM4 CHF 8.5 300",
+        "description": "Chrome Lined Cold Hammer forged 8.5 inch 300 Blackout barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 22500,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a528d63e64c0165ab8b5c46": {
+    "itemTplToClone": "55d35ee94bdc2d61338b4568",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_ar15_260mm.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -5,
+      "Recoil": -4,
+      "Accuracy": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "Velocity": 1,
+      "ConflictingItems": [
+        "5fc235db2770a0045c59c683",
+        "6034e3d953a60014f970617b",
+        "6034e3e20ddce744014cb878",
+        "6065881d1246154cad35d637",
+        "6087e0336d0bd7580617bb7a",
+        "619b5db699fb192e7430664f",
+        "637f57c532b66e7e320a6676",
+        "63888bbd28e5cc32cc09d2b6",
+        "640b20359ab20e15ee445fa9",
+        "595cfa8b86f77427437e845b",
+        "5c0e2f5cd174af02a012cfc9",
+        "5c78f2492e221600114c9f04",
+        "5c78f26f2e221601da3581d1",
+        "5c9a25172e2216000f20314e",
+        "5d00ede1d7ad1a0940739a76",
+        "5d00ef6dd7ad1a0940739b16",
+        "5d122e7bd7ad1a07102d6d7f",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "5df916dfbb49d91fb446d6b9",
+        "5ea16ada09aa976f2e7a51be",
+        "5447a9cd4bdc2dbd208b4567",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "d7b74124c46cb6c9ea666ff7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a528d63e64c0165ab8b5c46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "657a4c85ac1f42f6f71e1d9f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a528d63e64c0165ab8b5c46",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 10.3 inch barrel",
+        "shortName": "DDM4 CHF 10.3 300",
+        "description": "Chrome Lined Cold Hammer forged 10.3 inch 300 Blackout barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 19200,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a528de788969d09771c586f": {
+    "itemTplToClone": "55d35ee94bdc2d61338b4568",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/ar15_barrels/ar15_11_5.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -6,
+      "Recoil": -5,
+      "Velocity": 2,
+      "Accuracy": 10,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5b2cfa535acfc432ff4db7a0",
+        "5c9a25172e2216000f20314e",
+        "5ea16ada09aa976f2e7a51be",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "5c78f2492e221600114c9f04",
+        "5c78f2882e22165df16b832e",
+        "6034e3e20ddce744014cb878",
+        "6034e3d953a60014f970617b",
+        "6087e0336d0bd7580617bb7a",
+        "595cfa8b86f77427437e845b",
+        "63888bbd28e5cc32cc09d2b6",
+        "5c0e2f5cd174af02a012cfc9",
+        "5c78f26f2e221601da3581d1",
+        "5447a9cd4bdc2dbd208b4567",
+        "595cf16b86f77427440c32e2",
+        "640b20359ab20e15ee445fa9",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "cde5778f2afaceea5224c7dd",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a528de788969d09771c586f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "fe747a9ae16c01e358360637",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a528de788969d09771c586f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 11.5 inch barrel",
+        "shortName": "DDM4 CHF 11.5 300",
+        "description": "Chrome Lined Cold Hammer forged 11.5 inch 300 Blackout barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a5291767a8383b69175d4d6": {
+    "itemTplToClone": "55d35ee94bdc2d61338b4568",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/ar15_barrels/ar15_12_5_carbine.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -6,
+      "Recoil": -5,
+      "Velocity": 2,
+      "Accuracy": 10,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5b2cfa535acfc432ff4db7a0",
+        "5c9a25172e2216000f20314e",
+        "5ea16ada09aa976f2e7a51be",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "5c78f2492e221600114c9f04",
+        "5c78f2882e22165df16b832e",
+        "6034e3e20ddce744014cb878",
+        "6034e3d953a60014f970617b",
+        "6087e0336d0bd7580617bb7a",
+        "595cfa8b86f77427437e845b",
+        "63888bbd28e5cc32cc09d2b6",
+        "5447a9cd4bdc2dbd208b4567",
+        "5c78f26f2e221601da3581d1",
+        "5c0e2f5cd174af02a012cfc9",
+        "640b20359ab20e15ee445fa9",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "682f8af4719b179ba48c0336",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a5291767a8383b69175d4d6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "882e278226ff5c255062c520",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a5291767a8383b69175d4d6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 12.5 inch carbine barrel",
+        "shortName": "DDM4 CHF 12.5C 300",
+        "description": "Chrome Lined Cold Hammer forged 12.5 inch 300 Blackout carbine barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 65000,
+    "handbookPriceRoubles": 21250,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a52918165ba99737ece68be": {
+    "itemTplToClone": "5c0e2f94d174af029f650d56",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/ar15_barrels/ar15_12_5_mid.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -6,
+      "Recoil": -5,
+      "Velocity": 2,
+      "Accuracy": 10,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Extrasizeleft": 2,
+      "ConflictingItems": [
+        "5447a9cd4bdc2dbd208b4567",
+        "5c9a26332e2216001219ea70",
+        "5d00f63bd7ad1a59283b1c1e",
+        "5d00e0cbd7ad1a6c6566a42d",
+        "647de824196bf69818044c93",
+        "55d459824bdc2d892f8b4573",
+        "5ae30db85acfc408fb139a05",
+        "5c78f2792e221600106f4683",
+        "5c78f2492e221600114c9f04",
+        "5c9a25172e2216000f20314e",
+        "595cfa8b86f77427437e845b",
+        "640b20359ab20e15ee445fa9",
+        "5ea16ada09aa976f2e7a51be",
+        "6034e3d953a60014f970617b",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "63888bbd28e5cc32cc09d2b6",
+        "6034e3e20ddce744014cb878",
+        "5b2cfa535acfc432ff4db7a0",
+        "6087e0336d0bd7580617bb7a",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5c78f2882e22165df16b832e",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "7743a4538dac0da8eb0034ae",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a52918165ba99737ece68be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "f688124ad156fb146c5cd5a2",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a52918165ba99737ece68be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 12.5 inch mid barrel",
+        "shortName": "DDM4 CHF 12.5M 300",
+        "description": "Chrome Lined Cold Hammer forged 12.5 inch 300 Blackout mid barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 65000,
+    "handbookPriceRoubles": 16200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a5291b6f2840d6975eb56ac": {
+    "itemTplToClone": "63d3ce0446bd475bcb50f55f",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_ar15_ba_hanson_carbine_pro_348mm.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -7,
+      "Recoil": -6,
+      "Velocity": 3,
+      "Accuracy": 10,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "640b20359ab20e15ee445fa9",
+        "5c0e2f5cd174af02a012cfc9",
+        "5c78f26f2e221601da3581d1",
+        "5c78f2882e22165df16b832e",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "63f4ba71f31d4a33b87bd046",
+        "5447a9cd4bdc2dbd208b4567",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "1f9ee07f45759e952e566c60",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a5291b6f2840d6975eb56ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "8ce0a3737c22a026460de3d9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a5291b6f2840d6975eb56ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "f1d50a96943befed40485eca",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_launcher",
+          "_parent": "6a5291b6f2840d6975eb56ac",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6357c98711fb55120211f7e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 13.7 inch barrel",
+        "shortName": "DDM4 CHF 13.7 300",
+        "description": "Chrome Lined Cold Hammer forged 13.7 inch 300 Blackout barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 24500,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a52927e3b9a911d05a29bfa": {
+    "itemTplToClone": "55d3632e4bdc2d972f8b4569",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_ar15_370mm.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -8,
+      "Recoil": -6,
+      "Accuracy": 11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "Velocity": 3,
+      "ConflictingItems": [
+        "5c0e2f5cd174af02a012cfc9",
+        "5c78f2612e221600114c9f0d",
+        "5c78f26f2e221601da3581d1",
+        "5d4405f0a4b9361e6a4e6bd9",
+        "5df916dfbb49d91fb446d6b9",
+        "5447a9cd4bdc2dbd208b4567",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5c78f2882e22165df16b832e",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "93d5dcac699355075eb0fb71",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a52927e3b9a911d05a29bfa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "0eefa1878c189025cfb7ddd9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a52927e3b9a911d05a29bfa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "b7335bc3c31cec1a2c6309e0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_launcher",
+          "_parent": "6a52927e3b9a911d05a29bfa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6357c98711fb55120211f7e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 14.5 inch barrel",
+        "shortName": "DDM4 CHF 14.5 300",
+        "description": "Chrome Lined Cold Hammer forged 14.5 inch 300 Blackout barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 28000,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a5293301d275064a6aecdcb": {
+    "itemTplToClone": "63d3d44a2a49307baf09386d",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_ar15_ba_hanson_carbine_pro_406mm.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -10,
+      "Recoil": -7,
+      "Velocity": 4,
+      "Accuracy": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5ae30db85acfc408fb139a05",
+        "55d459824bdc2d892f8b4573",
+        "5c78f2792e221600106f4683",
+        "5d00e0cbd7ad1a6c6566a42d",
+        "5d00f63bd7ad1a59283b1c1e",
+        "5447a9cd4bdc2dbd208b4567",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5c78f2882e22165df16b832e",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "d581db32946f1639b0c3c851",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a5293301d275064a6aecdcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "f078e6023d25c340b57f03d8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a5293301d275064a6aecdcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 16 inch carbine barrel",
+        "shortName": "DDM4 CHF 16C 300",
+        "description": "Chrome Lined Cold Hammer forged 16 inch 300 Blackout carbine barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 74666,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1600
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1600
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a52c2e158e0d2de80cac5d3": {
+    "itemTplToClone": "5c0e2f94d174af029f650d56",
+    "parentId": "BARREL",
+    "handbookParentId": "MOD_BARREL",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_ar15_adar_406mm.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -10,
+      "Recoil": -7,
+      "Velocity": 4,
+      "Accuracy": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5ae30db85acfc408fb139a05",
+        "55d459824bdc2d892f8b4573",
+        "5c9a26332e2216001219ea70",
+        "5c78f2792e221600106f4683",
+        "5d00e0cbd7ad1a6c6566a42d",
+        "5d00f63bd7ad1a59283b1c1e",
+        "5447a9cd4bdc2dbd208b4567",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "5c78f2882e22165df16b832e",
+        "5bb2475ed4351e00853264e3",
+        "72efec8b80389ea82673eac8"
+      ],
+      "Slots": [
+        {
+          "_id": "156413184cbf9ee873ff7096",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "6a52c2e158e0d2de80cac5d3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "33fc08a4af5c21b885ec0089",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a52c2e158e0d2de80cac5d3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6878917c7adb7e17eb1273ce",
+                  "10c1dae2a05599e8a2b59cda"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense CHF .300 blackout 16 inch barrel",
+        "shortName": "DDM4 CHF 16 300",
+        "description": "Chrome Lined Cold Hammer forged 16 inch 300 Blackout barrel made by Daniel Defense known for it's extreme durability and sub MOA accuracy."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 18500,
+    "handbookPriceRoubles": 19118,
+    "addtoTraders": true,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [

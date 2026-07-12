@@ -6,13 +6,13 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
+      "Ergonomics": 5,
       "Prefab": {
         "path": "assets/content/items/mods/charges/charge_ar15_dd_grip_n_rip_charging_handle.bundle",
         "rcid": ""
       },
       "CanSellOnRagfair": true,
-      "CanRequireOnRagfair": true,
-      "Ergonomics": 3
+      "CanRequireOnRagfair": true
     },
     "locales": {
       "en": {

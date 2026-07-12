@@ -1,4 +1,222 @@
 {
+  "6a52face09838c2120a25b7d": {
+    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "ammoCaliber": "Caliber762x35",
+      "defAmmo": "5fbe3ffdf8b6a877a729ea82",
+      "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6a52dd4427c9ad2a68396272",
+          "_parent": "6a52face09838c2120a25b7d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [			  
+				  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ],
+                "Shift": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DDM4 300 Blackout",
+        "shortName": "DDM4 300 BLK",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 30
+      }
+    ],
+    "addtoTraders": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a52d5cf902e453fc9a79c34": {
+    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "BackgroundColor": "blue",
+      "ammoCaliber": "Caliber762x35",
+      "defAmmo": "5fbe3ffdf8b6a877a729ea82",
+      "bFirerate": 900,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6a52dd4427c9ad2a68396272",
+          "_parent": "6a52d5cf902e453fc9a79c34",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [			  
+				  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ],
+                "Shift": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DDM4 ISR 300 Blackout",
+        "shortName": "DDM4 ISR 300 Blackout",
+        "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 30
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 30
+      }
+    ],
+    "addtoTraders": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "692f150b317e189d34953639"
+        ]
+      }
+    ]
+  },
   "692f150b317e189d34953639": {
     "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
     "parentId": "5447b5f14bdc2d61278b4567",
@@ -1408,23 +1626,6 @@
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
         "probability": 1
       }
-    ],
-    "traders": {
-      "PEACEKEEPER": {
-        "690a9521b92ab495d00df8e9": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 34000,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    ]
   }
 }

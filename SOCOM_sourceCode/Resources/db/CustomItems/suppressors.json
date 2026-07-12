@@ -11,14 +11,13 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "Prefab": {
         "path": "assets/content/items/mods/silencers/silencer_qdc_kac_qdc_suppressor_556x45.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -84,10 +83,9 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -153,10 +151,9 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -218,14 +215,13 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "Prefab": {
         "path": "mods/suppressors/surefire_rc3_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -287,14 +283,13 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "Prefab": {
         "path": "mods/suppressors/surefire_rc3_fde.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -356,15 +351,14 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "BackgroundColor": "violet",
       "Prefab": {
         "path": "mods/suppressors/huxwrks_flow_556k_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -425,14 +419,13 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "Prefab": {
         "path": "mods/suppressors/huxwrks_flow_556k_tan.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -493,14 +486,13 @@
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
-      "Loudness": -30,
+      "Loudness": -70,
       "Prefab": {
         "path": "mods/suppressors/surefire_rc2_556_blk.bundle",
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -559,7 +551,7 @@
       "BackgroundColor": "violet",
       "Width": 1,
      "Recoil": -11,
-      "Loudness": -30,
+      "Loudness": -70,
       "Ergonomics": -7,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
@@ -570,8 +562,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -630,7 +621,7 @@
       "BackgroundColor": "violet",
       "Width": 1,
      "Recoil": -11,
-      "Loudness": -30,
+      "Loudness": -70,
       "Ergonomics": -7,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
@@ -641,8 +632,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -700,7 +690,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Recoil": -13,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -786,7 +776,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Recoil": -13,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -872,7 +862,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Recoil": -13,
-      "Loudness": -30,
+      "Loudness": -70,
       "Ergonomics": -9,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
@@ -883,8 +873,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -942,7 +931,7 @@
       "ExaminedByDefault": true,
       "BackgroundColor": "violet",
       "Recoil": -13,
-      "Loudness": -30,
+      "Loudness": -70,
       "Ergonomics": -9,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
@@ -953,8 +942,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ]
     },
     "locales": {
@@ -1013,7 +1001,7 @@
       "BackgroundColor": "violet",
       "Recoil": -12,
       "Ergonomics": -8,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -1024,8 +1012,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ],
       "Slots": [
         {
@@ -1107,7 +1094,7 @@
       "BackgroundColor": "violet",
       "Recoil": -12,
       "Ergonomics": -8,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -1118,8 +1105,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ],
       "Slots": [
         {
@@ -1201,7 +1187,7 @@
       "BackgroundColor": "violet",
       "Recoil": -12,
       "Ergonomics": -8,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -1211,8 +1197,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ],
       "Slots": [
         {
@@ -1285,6 +1270,106 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
+  "6a52cfa83201523248a20d32": {
+    "itemTplToClone": "5dfa3d2b0dee1b22f862eade",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Recoil": -12,
+      "Ergonomics": -8,
+      "Loudness": -70,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "DurabilityBurnModificator": 0.5,
+      "Weight": 0.545,
+      "Prefab": {
+        "path": "mods/suppressors/prt_supp_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+
+      ],
+      "Slots": [
+        {
+          "_name": "mod_mount",
+          "_id": "2e76f94eded7f1a7496e2b46",
+          "_parent": "6a52cfa83201523248a20d32",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b02e5f84df2f2f062a309ef9",
+                  "09b44a7e34b49045e3308e58",
+                  "08ce1f8189bcb4aa4a490d28",
+                  "edb383eec77614c936e627ec"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KAC QDC/CRS-PRT 7.62 sound suppressor (BLK)",
+        "shortName": "CRS-PRT 7.62",
+        "description": "KAC’s newest answer for a superior rifle suppressor — 3D printed and incorporating their Pressure Reduction Technology (PRT)."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 24500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1100
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1100
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
   "6931d159dadf0b1c58e13f0d": {
     "itemTplToClone": "bfa234cc36aac6c9e1190ab1",
     "parentId": "SILENCER",
@@ -1294,7 +1379,7 @@
       "BackgroundColor": "violet",
       "Recoil": -12,
       "Ergonomics": -8,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -1304,8 +1389,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ],
       "Slots": [
         {
@@ -1388,7 +1472,7 @@
       "Width": 2,
       "Recoil": -24,
       "Ergonomics": -8,
-      "Loudness": -50,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -1399,8 +1483,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ],
       "Slots": []
     },
@@ -1461,7 +1544,7 @@
       "Width": 2,
       "Recoil": -25,
       "Ergonomics": -9,
-      "Loudness": -30,
+      "Loudness": -70,
       "CoolFactor": 1.5,
       "HeatFactor": 0.5,
       "DurabilityBurnModificator": 0.5,
@@ -1472,8 +1555,7 @@
         "rcid": ""
       },
       "ConflictingItems": [
-        "5c78f2882e22165df16b832e",
-        "5c6d85e02e22165df16b81f4"
+
       ],
       "Slots": []
     },

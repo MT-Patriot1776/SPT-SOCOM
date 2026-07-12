@@ -112,7 +112,7 @@
       "en": {
         "name": "KAC MAMS Muzzle Device",
         "shortName": "MAMS",
-        "description": "KAC MAMS MUZZLE DEVICE"
+        "description": "KAC MAMS 5.56 MUZZLE DEVICE"
       }
     },
     "addtoInventorySlots": [],
@@ -155,6 +155,81 @@
     "addWeaponPreset": false,
     "weaponPresets": []
   },
+  "6a52d0867b6942db5265a787": {
+    "itemTplToClone": "5dfa3cd1b33c0951220c079b",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+      "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 10,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/kac_mams.bundle",
+        "rcid": ""
+      },
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "Accuracy": 5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1
+    },
+    "locales": {
+      "en": {
+        "name": "KAC MAMS 7.62 Muzzle Device",
+        "shortName": "MAMS 7.62",
+        "description": "KAC MAMS 7.62 MUZZLE DEVICE"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
   "692f1580f1aafb024b7207dc": {
     "itemTplToClone": "5c7fb51d2e2216001219ce11",
     "parentId": "FLASHHIDER",
@@ -180,6 +255,69 @@
         "name": "Surefire SFMB 5.56x45 Muzzle brake",
         "shortName": "SFMB",
         "description": "SureFire SFMB muzzle brake suppressor adapters greatly reduce both recoil impulse and muzzle rise so that your weapon tracks straight back, keeping you on target for faster shot-to-shot recovery. Our proprietary Impulse Diffusion design minimizes side blast and rear-directed concussion effects."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1900
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1900
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a53cd293e0b493932036257": {
+    "itemTplToClone": "544a38634bdc2d58388b4568",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+      "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 5,
+      "Recoil": -9,
+      "Ergonomics": 0,
+      "Weight": 0.04,
+      "Accuracy": 5,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense A2 Flash Hider",
+        "shortName": "DDM4 A2 Flash Hider",
+        "description": "Daniel Defense M4 platform rifles are premium, semi-automatic firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
       }
     },
     "addtoInventorySlots": [],
