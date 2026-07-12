@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyiH9IReGTE=",
+  "dgSpecHash": "q90tLuJ2l70=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sadams\\Downloads\\SPT-SOCOM-main\\SPT-SOCOM-main\\SOCOM_sourceCode\\SOCOM.csproj",
+  "projectFilePath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.3\\SOCOM_sourceCode\\SOCOM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sadams\\.nuget\\packages\\fastcloner\\3.3.16\\fastcloner.3.3.16.nupkg.sha512",
     "C:\\Users\\sadams\\.nuget\\packages\\harmonyx\\2.15.0\\harmonyx.2.15.0.nupkg.sha512",

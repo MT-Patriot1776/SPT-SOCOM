@@ -7,12 +7,13 @@ using SPTarkov.Server.Core.Routers;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Utils;
 using System.Reflection;
+using WTTServerCommonLib.Models;
 using Path = System.IO.Path;
 using SOCOM.Utilities;
 
 namespace SOCOM.Traders;
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]
+[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class SOCOM(
     ModHelper modHelper,
     ImageRouter imageRouter,
@@ -36,6 +37,7 @@ public class SOCOM(
 
         // The base json containing trader settings we will add to the server
         var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "db/TraderSOCOM/base.json");
+        TraderIds.Add("SOCOM", traderBase.Id);
 
         // Create a helper class and use it to register our traders image/icon + set its stock refresh time
         imageRouter.AddRoute(traderBase.Avatar.Replace(".png", ""), traderImagePath);
