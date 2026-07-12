@@ -25,7 +25,7 @@ public record ModMetadata : AbstractModMetadata
     public override string License { get; init; } = "MIT";
 }
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
+[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]
 public class SOCOM(
     WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
 {
