@@ -42,7 +42,7 @@
     },
     "locales": {
       "en": {
-        "name": "Daniel Defense DDM4 300 Blackout",
+        "name": "Daniel Defense DDM4A1 300 Blackout",
         "shortName": "DDM4 300 BLK",
         "description": "Daniel Defense M4 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
       }
@@ -98,7 +98,7 @@
         "Probability": 30
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masterySections": [
       {
         "Name": "M4",
@@ -230,8 +230,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {
@@ -315,8 +314,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {
@@ -995,8 +993,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {
@@ -1080,8 +1077,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {
@@ -1165,8 +1161,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {
@@ -1250,8 +1245,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {
@@ -1420,8 +1414,7 @@
       "CanRequireOnRagfair": true,
       "ExaminedByDefault": true,
       "weapFireType": [
-        "single",
-        "fullauto"
+        "single"
       ]
     },
     "locales": {

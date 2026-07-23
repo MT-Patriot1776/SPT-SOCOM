@@ -1,36 +1,68 @@
 {
-    "manifest": [
-		{
-			"key": "magazine_ddm4.bundle",
-			"dependencyKeys": [
-				"cubemaps",
-				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
-			]
-		},
-		{
-			"key": "magazine_ddm4_fde.bundle",
-			"dependencyKeys": [
-				"cubemaps",
-				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
-			]
-		},
-		{
-			"key": "magazine_ddm4_extended.bundle",
-			"dependencyKeys": [
-				"cubemaps",
-				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
-			]
-		},
-		{
-			"key": "magazine_ddm4_fde_extended.bundle",
-			"dependencyKeys": [
-				"cubemaps",
-				"shaders",
-				"commonassets/physics/physicsmaterials.bundle"
-			]
-        }
-    ]
+  "manifest": [
+    {
+      "key": "Attachments/Foregrips/foregrip_all_dd_vfg_blk.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Foregrips/foregrip_all_dd_vfg_fde.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Foregrips/foregrip_all_dd_vfg_gry.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "magazine_ddm4_extended.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "magazine_ddm4_fde_extended.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "magazine_ddm4_fde.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "magazine_ddm4.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mods/Foregrips/kac_finger.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    }
+  ]
 }

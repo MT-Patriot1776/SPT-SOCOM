@@ -884,13 +884,13 @@
     "C:\\Users\\sadams\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "2.0.3",
+    "version": "3.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.3\\SOCOM_sourceCode\\SOCOM.csproj",
+      "projectUniqueName": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.4f\\SOCOM_sourceCode\\SOCOM.csproj",
       "projectName": "SOCOM",
-      "projectPath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.3\\SOCOM_sourceCode\\SOCOM.csproj",
+      "projectPath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.4f\\SOCOM_sourceCode\\SOCOM.csproj",
       "packagesPath": "C:\\Users\\sadams\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.3\\SOCOM_sourceCode\\obj\\",
+      "outputPath": "C:\\Users\\sadams\\SynologyDrive\\SPT-DEV\\SPT Modding\\Traders\\SOCOM DEV\\SOCOM_2.0.4f\\SOCOM_sourceCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sadams\\AppData\\Roaming\\NuGet\\NuGet.Config"

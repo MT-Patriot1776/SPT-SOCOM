@@ -1,7 +1,11 @@
-﻿using System.Reflection;
+using System.Reflection;
+using System.Text.Json;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
+using SPTarkov.Server.Core.Helpers;
+using SPTarkov.Server.Core.Loaders;
 using SPTarkov.Server.Core.Models.Spt.Mod;
+using SPTarkov.Server.Core.Services;
 using Range = SemanticVersioning.Range;
 
 namespace SOCOM;
@@ -21,17 +25,64 @@ public record ModMetadata : AbstractModMetadata
         { "com.epicrangetime.aio", new Range("~4.0.8") }
     };
     public override string? Url { get; init; } = "https://github.com/MT-Patriot1776/SPT-SOCOM";
-    public override bool? IsBundleMod { get; init; } = true;
+    public override bool? IsBundleMod { get; init; } = false;
     public override string License { get; init; } = "MIT";
 }
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]
 public class SOCOM(
-    WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
+    WTTServerCommonLib.WTTServerCommonLib wttCommon,
+    BundleLoader bundleLoader,
+    BundleHashCacheService bundleHashCacheService,
+    ModHelper modHelper) : IOnLoad
 {
+    private static readonly JsonSerializerOptions JsonOptions = new()
+    {
+        PropertyNameCaseInsensitive = true
+    };
+
     public async Task OnLoad()
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
+        await RegisterMissingBundles(assembly);
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomQuestZoneService.CreateCustomQuestZones(assembly);
+        await wttCommon.CustomQuestService.CreateCustomQuests(assembly);
+        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
+    }
+
+    private async Task RegisterMissingBundles(Assembly assembly)
+    {
+        var absoluteModPath = modHelper.GetAbsolutePathToModFolder(assembly);
+        var manifestPath = Path.Combine(absoluteModPath, "bundles.json");
+
+        if (!File.Exists(manifestPath))
+        {
+            return;
+        }
+
+        var manifest = JsonSerializer.Deserialize<BundleManifest>(await File.ReadAllTextAsync(manifestPath), JsonOptions);
+        if (manifest?.Manifest is null)
+        {
+            return;
+        }
+
+        var relativeModPath = Path.GetRelativePath(Directory.GetCurrentDirectory(), absoluteModPath).Replace('\\', '/');
+        foreach (var bundleManifest in manifest.Manifest)
+        {
+            if (string.IsNullOrWhiteSpace(bundleManifest.Key) || bundleLoader.GetBundle(bundleManifest.Key) is not null)
+            {
+                continue;
+            }
+
+            var bundlePath = Path.Combine(absoluteModPath, "bundles", bundleManifest.Key.Replace('/', Path.DirectorySeparatorChar));
+            if (!File.Exists(bundlePath))
+            {
+                continue;
+            }
+
+            var crc = await bundleHashCacheService.CalculateMatchAndStoreHash(bundlePath);
+            bundleLoader.AddBundle(bundleManifest.Key, new BundleInfo(relativeModPath, bundleManifest, crc));
+        }
     }
 }

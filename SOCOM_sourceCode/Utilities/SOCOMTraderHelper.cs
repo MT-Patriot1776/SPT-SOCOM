@@ -61,9 +61,9 @@ namespace SOCOM.Utilities
                 QuestAssort = new() // quest assort is empty as trader has no assorts unlocked by quests
                 {
                     // We create 3 empty arrays, one for each of the main statuses that are possible
-                    { "Started", new() },
-                    { "Success", new() },
-                    { "Fail", new() }
+                    { "started", new() },
+                    { "success", new() },
+                    { "fail", new() }
                 },
                 Dialogue = []
             };

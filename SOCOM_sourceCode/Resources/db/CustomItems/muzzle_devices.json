@@ -55,7 +55,7 @@
     ],
     "fleaPriceRoubles": 18250,
     "handbookPriceRoubles": 6200,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -189,7 +189,7 @@
     ],
     "fleaPriceRoubles": 32500,
     "handbookPriceRoubles": 4800,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [

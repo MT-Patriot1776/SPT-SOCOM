@@ -34,7 +34,7 @@
     ],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -238,7 +238,7 @@
     ],
     "fleaPriceRoubles": 36520,
     "handbookPriceRoubles": 52560,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -306,7 +306,7 @@
     ],
     "fleaPriceRoubles": 39520,
     "handbookPriceRoubles": 52560,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -373,7 +373,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -440,7 +440,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -579,7 +579,7 @@
     ],
     "fleaPriceRoubles": 36520,
     "handbookPriceRoubles": 52560,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -649,7 +649,7 @@
     ],
     "fleaPriceRoubles": 36520,
     "handbookPriceRoubles": 52560,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -735,7 +735,7 @@
     ],
     "fleaPriceRoubles": 40000,
     "handbookPriceRoubles": 56200,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -821,7 +821,7 @@
     ],
     "fleaPriceRoubles": 40000,
     "handbookPriceRoubles": 56200,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -890,7 +890,7 @@
     ],
     "fleaPriceRoubles": 38250,
     "handbookPriceRoubles": 44000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -959,7 +959,7 @@
     ],
     "fleaPriceRoubles": 38250,
     "handbookPriceRoubles": 44000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1052,7 +1052,7 @@
     ],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1145,7 +1145,7 @@
     ],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1237,7 +1237,7 @@
     ],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1329,7 +1329,7 @@
     ],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1429,7 +1429,7 @@
     ],
     "fleaPriceRoubles": 65500,
     "handbookPriceRoubles": 24500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1501,7 +1501,7 @@
     ],
     "fleaPriceRoubles": 42920,
     "handbookPriceRoubles": 29000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1573,7 +1573,7 @@
     ],
     "fleaPriceRoubles": 47290,
     "handbookPriceRoubles": 30000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [

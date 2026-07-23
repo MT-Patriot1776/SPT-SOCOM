@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
-    <Version>2.0.3</Version>
+    <Version>3.0.0</Version>
     <PathMap>$(MSBuildProjectDirectory)=SOCOM</PathMap>
     <!-- The two lines below will set the output path for the binaries -->
     <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
@@ -15,10 +15,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Resources\db\CustomQuestZones\**" />
-    <Content Remove="Resources\db\CustomQuestZones\**" />
-    <EmbeddedResource Remove="Resources\db\CustomQuestZones\**" />
-    <None Remove="Resources\db\CustomQuestZones\**" />
+    <Compile Remove="EpicRangeTime-Weapons-main\**" />
+    <Content Remove="EpicRangeTime-Weapons-main\**" />
+    <EmbeddedResource Remove="EpicRangeTime-Weapons-main\**" />
+    <None Remove="EpicRangeTime-Weapons-main\**" />
+    <Compile Remove="WTT-Artem-main\**" />
+    <Content Remove="WTT-Artem-main\**" />
+    <EmbeddedResource Remove="WTT-Artem-main\**" />
+    <None Remove="WTT-Artem-main\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,7 +36,7 @@
 
 	<ItemGroup>
 		<!-- Include EVERYTHING under Resources -->
-		<Content Include="Resources\**\*">
+		<Content Include="Resources\**\*" Exclude="Resources\*.dll;Resources\*.pdb;Resources\*.deps.json;Resources\*.staticwebassets.endpoints.json">
 			<!-- This makes the copied path omit the 'Resources\' prefix -->
 			<Link>%(RecursiveDir)%(Filename)%(Extension)</Link>
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -46,22 +50,4 @@
 	</PropertyGroup>
 
 
-  <PropertyGroup>
-    <SptModOutputDir>$(MSBuildProjectDirectory)\..\..\..\SPT\user\mods\$(AssemblyName)\</SptModOutputDir>
-  </PropertyGroup>
-
-  <Target Name="DeployToSptMods" AfterTargets="Build">
-    <ItemGroup>
-      <BuiltModFiles Include="$(TargetDir)**\*" />
-    </ItemGroup>
-
-    <RemoveDir Directories="$(SptModOutputDir)" />
-    <MakeDir Directories="$(SptModOutputDir)" />
-    <Copy
-      SourceFiles="@(BuiltModFiles)"
-      DestinationFiles="@(BuiltModFiles->'$(SptModOutputDir)%(RecursiveDir)%(Filename)%(Extension)')"
-      SkipUnchangedFiles="false" />
-
-    <Message Importance="High" Text="[DeployToSptMods] Build output: $(SptModOutputDir)" />
-  </Target>
 </Project>

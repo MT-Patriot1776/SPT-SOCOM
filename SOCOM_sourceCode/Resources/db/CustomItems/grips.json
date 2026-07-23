@@ -203,6 +203,222 @@
     ],
     "addtoTraders": false
   },
+  "6a617f00702f63fa2cc780d9": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+	    "Prefab": {
+        "path": "Attachments/Foregrips/foregrip_all_dd_vfg_blk.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Vertical Foregrip Picatinny Black",
+        "shortName": "DDM4 VFG PT BLK",
+        "description": "The Daniel Defense Vertical Grip includes soft touch rubber overmolding for enhanced grip, wet or dry."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 40
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a617f3a42bd67d4822519c4": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+	    "Prefab": {
+        "path": "Attachments/Foregrips/foregrip_all_dd_vfg_fde.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Vertical Foregrip Picatinny MIL SPEC+",
+        "shortName": "DDM4 VFG PT FDE",
+        "description": "The Daniel Defense Vertical Grip includes soft touch rubber overmolding for enhanced grip, wet or dry."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 40
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a617f73e4fc3f2787a88d36": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+	    "Prefab": {
+        "path": "Attachments/Foregrips/foregrip_all_dd_vfg_gry.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Vertical Foregrip Picatinny TORNADO",
+        "shortName": "DDM4 VFG PT TORNADO",
+        "description": "The Daniel Defense Vertical Grip includes soft touch rubber overmolding for enhanced grip, wet or dry."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 40
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "Probability": 40
+      }
+    ],
+    "addtoTraders": false
+  },
   "692f0cc3192ad3dee0f23f56": {
     "itemTplToClone": "651a8bf3a8520e48047bf708",
     "parentId": "55818af64bdc2d5b648b4570",
@@ -822,7 +1038,7 @@
     ],
     "fleaPriceRoubles": 18000,
     "handbookPriceRoubles": 3000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -903,7 +1119,7 @@
     ],
     "fleaPriceRoubles": 7600,
     "handbookPriceRoubles": 3400,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -972,7 +1188,7 @@
     ],
     "fleaPriceRoubles": 7600,
     "handbookPriceRoubles": 3400,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
